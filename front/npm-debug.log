@@ -1,0 +1,3093 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files (x86)\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'update' ]
+2 info using npm@3.8.6
+3 info using node@v5.12.0
+4 silly mapToRegistry name @angular-devkit/build-angular
+5 silly mapToRegistry scope (from package name) @angular-devkit
+6 verbose mapToRegistry no registry URL found in name for scope @angular-devkit
+7 silly mapToRegistry using default registry
+8 silly mapToRegistry registry https://registry.npmjs.org/
+9 silly mapToRegistry data Result {
+9 silly mapToRegistry   raw: '@angular-devkit/build-angular',
+9 silly mapToRegistry   scope: '@angular-devkit',
+9 silly mapToRegistry   name: '@angular-devkit/build-angular',
+9 silly mapToRegistry   rawSpec: '',
+9 silly mapToRegistry   spec: 'latest',
+9 silly mapToRegistry   type: 'tag' }
+10 silly mapToRegistry uri https://registry.npmjs.org/@angular-devkit%2fbuild-angular
+11 silly mapToRegistry name @angular/animations
+12 silly mapToRegistry scope (from package name) @angular
+13 verbose mapToRegistry no registry URL found in name for scope @angular
+14 silly mapToRegistry using default registry
+15 silly mapToRegistry registry https://registry.npmjs.org/
+16 silly mapToRegistry data Result {
+16 silly mapToRegistry   raw: '@angular/animations',
+16 silly mapToRegistry   scope: '@angular',
+16 silly mapToRegistry   name: '@angular/animations',
+16 silly mapToRegistry   rawSpec: '',
+16 silly mapToRegistry   spec: 'latest',
+16 silly mapToRegistry   type: 'tag' }
+17 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fanimations
+18 silly mapToRegistry name @angular/cdk
+19 silly mapToRegistry scope (from package name) @angular
+20 verbose mapToRegistry no registry URL found in name for scope @angular
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://registry.npmjs.org/
+23 silly mapToRegistry data Result {
+23 silly mapToRegistry   raw: '@angular/cdk',
+23 silly mapToRegistry   scope: '@angular',
+23 silly mapToRegistry   name: '@angular/cdk',
+23 silly mapToRegistry   rawSpec: '',
+23 silly mapToRegistry   spec: 'latest',
+23 silly mapToRegistry   type: 'tag' }
+24 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcdk
+25 silly mapToRegistry name @angular/cli
+26 silly mapToRegistry scope (from package name) @angular
+27 verbose mapToRegistry no registry URL found in name for scope @angular
+28 silly mapToRegistry using default registry
+29 silly mapToRegistry registry https://registry.npmjs.org/
+30 silly mapToRegistry data Result {
+30 silly mapToRegistry   raw: '@angular/cli',
+30 silly mapToRegistry   scope: '@angular',
+30 silly mapToRegistry   name: '@angular/cli',
+30 silly mapToRegistry   rawSpec: '',
+30 silly mapToRegistry   spec: 'latest',
+30 silly mapToRegistry   type: 'tag' }
+31 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcli
+32 silly mapToRegistry name @angular/common
+33 silly mapToRegistry scope (from package name) @angular
+34 verbose mapToRegistry no registry URL found in name for scope @angular
+35 silly mapToRegistry using default registry
+36 silly mapToRegistry registry https://registry.npmjs.org/
+37 silly mapToRegistry data Result {
+37 silly mapToRegistry   raw: '@angular/common',
+37 silly mapToRegistry   scope: '@angular',
+37 silly mapToRegistry   name: '@angular/common',
+37 silly mapToRegistry   rawSpec: '',
+37 silly mapToRegistry   spec: 'latest',
+37 silly mapToRegistry   type: 'tag' }
+38 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcommon
+39 silly mapToRegistry name @angular/compiler
+40 silly mapToRegistry scope (from package name) @angular
+41 verbose mapToRegistry no registry URL found in name for scope @angular
+42 silly mapToRegistry using default registry
+43 silly mapToRegistry registry https://registry.npmjs.org/
+44 silly mapToRegistry data Result {
+44 silly mapToRegistry   raw: '@angular/compiler',
+44 silly mapToRegistry   scope: '@angular',
+44 silly mapToRegistry   name: '@angular/compiler',
+44 silly mapToRegistry   rawSpec: '',
+44 silly mapToRegistry   spec: 'latest',
+44 silly mapToRegistry   type: 'tag' }
+45 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcompiler
+46 silly mapToRegistry name @angular/compiler-cli
+47 silly mapToRegistry scope (from package name) @angular
+48 verbose mapToRegistry no registry URL found in name for scope @angular
+49 silly mapToRegistry using default registry
+50 silly mapToRegistry registry https://registry.npmjs.org/
+51 silly mapToRegistry data Result {
+51 silly mapToRegistry   raw: '@angular/compiler-cli',
+51 silly mapToRegistry   scope: '@angular',
+51 silly mapToRegistry   name: '@angular/compiler-cli',
+51 silly mapToRegistry   rawSpec: '',
+51 silly mapToRegistry   spec: 'latest',
+51 silly mapToRegistry   type: 'tag' }
+52 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcompiler-cli
+53 silly mapToRegistry name @angular/core
+54 silly mapToRegistry scope (from package name) @angular
+55 verbose mapToRegistry no registry URL found in name for scope @angular
+56 silly mapToRegistry using default registry
+57 silly mapToRegistry registry https://registry.npmjs.org/
+58 silly mapToRegistry data Result {
+58 silly mapToRegistry   raw: '@angular/core',
+58 silly mapToRegistry   scope: '@angular',
+58 silly mapToRegistry   name: '@angular/core',
+58 silly mapToRegistry   rawSpec: '',
+58 silly mapToRegistry   spec: 'latest',
+58 silly mapToRegistry   type: 'tag' }
+59 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcore
+60 silly mapToRegistry name @angular/forms
+61 silly mapToRegistry scope (from package name) @angular
+62 verbose mapToRegistry no registry URL found in name for scope @angular
+63 silly mapToRegistry using default registry
+64 silly mapToRegistry registry https://registry.npmjs.org/
+65 silly mapToRegistry data Result {
+65 silly mapToRegistry   raw: '@angular/forms',
+65 silly mapToRegistry   scope: '@angular',
+65 silly mapToRegistry   name: '@angular/forms',
+65 silly mapToRegistry   rawSpec: '',
+65 silly mapToRegistry   spec: 'latest',
+65 silly mapToRegistry   type: 'tag' }
+66 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fforms
+67 silly mapToRegistry name @angular/localize
+68 silly mapToRegistry scope (from package name) @angular
+69 verbose mapToRegistry no registry URL found in name for scope @angular
+70 silly mapToRegistry using default registry
+71 silly mapToRegistry registry https://registry.npmjs.org/
+72 silly mapToRegistry data Result {
+72 silly mapToRegistry   raw: '@angular/localize',
+72 silly mapToRegistry   scope: '@angular',
+72 silly mapToRegistry   name: '@angular/localize',
+72 silly mapToRegistry   rawSpec: '',
+72 silly mapToRegistry   spec: 'latest',
+72 silly mapToRegistry   type: 'tag' }
+73 silly mapToRegistry uri https://registry.npmjs.org/@angular%2flocalize
+74 silly mapToRegistry name @angular/platform-browser
+75 silly mapToRegistry scope (from package name) @angular
+76 verbose mapToRegistry no registry URL found in name for scope @angular
+77 silly mapToRegistry using default registry
+78 silly mapToRegistry registry https://registry.npmjs.org/
+79 silly mapToRegistry data Result {
+79 silly mapToRegistry   raw: '@angular/platform-browser',
+79 silly mapToRegistry   scope: '@angular',
+79 silly mapToRegistry   name: '@angular/platform-browser',
+79 silly mapToRegistry   rawSpec: '',
+79 silly mapToRegistry   spec: 'latest',
+79 silly mapToRegistry   type: 'tag' }
+80 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fplatform-browser
+81 silly mapToRegistry name @angular/platform-browser-dynamic
+82 silly mapToRegistry scope (from package name) @angular
+83 verbose mapToRegistry no registry URL found in name for scope @angular
+84 silly mapToRegistry using default registry
+85 silly mapToRegistry registry https://registry.npmjs.org/
+86 silly mapToRegistry data Result {
+86 silly mapToRegistry   raw: '@angular/platform-browser-dynamic',
+86 silly mapToRegistry   scope: '@angular',
+86 silly mapToRegistry   name: '@angular/platform-browser-dynamic',
+86 silly mapToRegistry   rawSpec: '',
+86 silly mapToRegistry   spec: 'latest',
+86 silly mapToRegistry   type: 'tag' }
+87 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fplatform-browser-dynamic
+88 silly mapToRegistry name @angular/router
+89 silly mapToRegistry scope (from package name) @angular
+90 verbose mapToRegistry no registry URL found in name for scope @angular
+91 silly mapToRegistry using default registry
+92 silly mapToRegistry registry https://registry.npmjs.org/
+93 silly mapToRegistry data Result {
+93 silly mapToRegistry   raw: '@angular/router',
+93 silly mapToRegistry   scope: '@angular',
+93 silly mapToRegistry   name: '@angular/router',
+93 silly mapToRegistry   rawSpec: '',
+93 silly mapToRegistry   spec: 'latest',
+93 silly mapToRegistry   type: 'tag' }
+94 silly mapToRegistry uri https://registry.npmjs.org/@angular%2frouter
+95 silly mapToRegistry name @angular/service-worker
+96 silly mapToRegistry scope (from package name) @angular
+97 verbose mapToRegistry no registry URL found in name for scope @angular
+98 silly mapToRegistry using default registry
+99 silly mapToRegistry registry https://registry.npmjs.org/
+100 silly mapToRegistry data Result {
+100 silly mapToRegistry   raw: '@angular/service-worker',
+100 silly mapToRegistry   scope: '@angular',
+100 silly mapToRegistry   name: '@angular/service-worker',
+100 silly mapToRegistry   rawSpec: '',
+100 silly mapToRegistry   spec: 'latest',
+100 silly mapToRegistry   type: 'tag' }
+101 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fservice-worker
+102 silly mapToRegistry name @dwtechs/checkhard
+103 silly mapToRegistry scope (from package name) @dwtechs
+104 verbose mapToRegistry no registry URL found in name for scope @dwtechs
+105 silly mapToRegistry using default registry
+106 silly mapToRegistry registry https://registry.npmjs.org/
+107 silly mapToRegistry data Result {
+107 silly mapToRegistry   raw: '@dwtechs/checkhard',
+107 silly mapToRegistry   scope: '@dwtechs',
+107 silly mapToRegistry   name: '@dwtechs/checkhard',
+107 silly mapToRegistry   rawSpec: '',
+107 silly mapToRegistry   spec: 'latest',
+107 silly mapToRegistry   type: 'tag' }
+108 silly mapToRegistry uri https://registry.npmjs.org/@dwtechs%2fcheckhard
+109 silly mapToRegistry name @dwtechs/csvx
+110 silly mapToRegistry scope (from package name) @dwtechs
+111 verbose mapToRegistry no registry URL found in name for scope @dwtechs
+112 silly mapToRegistry using default registry
+113 silly mapToRegistry registry https://registry.npmjs.org/
+114 silly mapToRegistry data Result {
+114 silly mapToRegistry   raw: '@dwtechs/csvx',
+114 silly mapToRegistry   scope: '@dwtechs',
+114 silly mapToRegistry   name: '@dwtechs/csvx',
+114 silly mapToRegistry   rawSpec: '',
+114 silly mapToRegistry   spec: 'latest',
+114 silly mapToRegistry   type: 'tag' }
+115 silly mapToRegistry uri https://registry.npmjs.org/@dwtechs%2fcsvx
+116 silly mapToRegistry name @dwtechs/ctrltab
+117 silly mapToRegistry scope (from package name) @dwtechs
+118 verbose mapToRegistry no registry URL found in name for scope @dwtechs
+119 silly mapToRegistry using default registry
+120 silly mapToRegistry registry https://registry.npmjs.org/
+121 silly mapToRegistry data Result {
+121 silly mapToRegistry   raw: '@dwtechs/ctrltab',
+121 silly mapToRegistry   scope: '@dwtechs',
+121 silly mapToRegistry   name: '@dwtechs/ctrltab',
+121 silly mapToRegistry   rawSpec: '',
+121 silly mapToRegistry   spec: 'latest',
+121 silly mapToRegistry   type: 'tag' }
+122 silly mapToRegistry uri https://registry.npmjs.org/@dwtechs%2fctrltab
+123 silly mapToRegistry name core-js
+124 silly mapToRegistry using default registry
+125 silly mapToRegistry registry https://registry.npmjs.org/
+126 silly mapToRegistry data Result {
+126 silly mapToRegistry   raw: 'core-js',
+126 silly mapToRegistry   scope: null,
+126 silly mapToRegistry   name: 'core-js',
+126 silly mapToRegistry   rawSpec: '',
+126 silly mapToRegistry   spec: 'latest',
+126 silly mapToRegistry   type: 'tag' }
+127 silly mapToRegistry uri https://registry.npmjs.org/core-js
+128 silly mapToRegistry name file-saver
+129 silly mapToRegistry using default registry
+130 silly mapToRegistry registry https://registry.npmjs.org/
+131 silly mapToRegistry data Result {
+131 silly mapToRegistry   raw: 'file-saver',
+131 silly mapToRegistry   scope: null,
+131 silly mapToRegistry   name: 'file-saver',
+131 silly mapToRegistry   rawSpec: '',
+131 silly mapToRegistry   spec: 'latest',
+131 silly mapToRegistry   type: 'tag' }
+132 silly mapToRegistry uri https://registry.npmjs.org/file-saver
+133 silly mapToRegistry name highlight.js
+134 silly mapToRegistry using default registry
+135 silly mapToRegistry registry https://registry.npmjs.org/
+136 silly mapToRegistry data Result {
+136 silly mapToRegistry   raw: 'highlight.js',
+136 silly mapToRegistry   scope: null,
+136 silly mapToRegistry   name: 'highlight.js',
+136 silly mapToRegistry   rawSpec: '',
+136 silly mapToRegistry   spec: 'latest',
+136 silly mapToRegistry   type: 'tag' }
+137 silly mapToRegistry uri https://registry.npmjs.org/highlight.js
+138 silly mapToRegistry name primeicons
+139 silly mapToRegistry using default registry
+140 silly mapToRegistry registry https://registry.npmjs.org/
+141 silly mapToRegistry data Result {
+141 silly mapToRegistry   raw: 'primeicons',
+141 silly mapToRegistry   scope: null,
+141 silly mapToRegistry   name: 'primeicons',
+141 silly mapToRegistry   rawSpec: '',
+141 silly mapToRegistry   spec: 'latest',
+141 silly mapToRegistry   type: 'tag' }
+142 silly mapToRegistry uri https://registry.npmjs.org/primeicons
+143 silly mapToRegistry name primeng
+144 silly mapToRegistry using default registry
+145 silly mapToRegistry registry https://registry.npmjs.org/
+146 silly mapToRegistry data Result {
+146 silly mapToRegistry   raw: 'primeng',
+146 silly mapToRegistry   scope: null,
+146 silly mapToRegistry   name: 'primeng',
+146 silly mapToRegistry   rawSpec: '',
+146 silly mapToRegistry   spec: 'latest',
+146 silly mapToRegistry   type: 'tag' }
+147 silly mapToRegistry uri https://registry.npmjs.org/primeng
+148 silly mapToRegistry name rxjs
+149 silly mapToRegistry using default registry
+150 silly mapToRegistry registry https://registry.npmjs.org/
+151 silly mapToRegistry data Result {
+151 silly mapToRegistry   raw: 'rxjs',
+151 silly mapToRegistry   scope: null,
+151 silly mapToRegistry   name: 'rxjs',
+151 silly mapToRegistry   rawSpec: '',
+151 silly mapToRegistry   spec: 'latest',
+151 silly mapToRegistry   type: 'tag' }
+152 silly mapToRegistry uri https://registry.npmjs.org/rxjs
+153 silly mapToRegistry name tslib
+154 silly mapToRegistry using default registry
+155 silly mapToRegistry registry https://registry.npmjs.org/
+156 silly mapToRegistry data Result {
+156 silly mapToRegistry   raw: 'tslib',
+156 silly mapToRegistry   scope: null,
+156 silly mapToRegistry   name: 'tslib',
+156 silly mapToRegistry   rawSpec: '',
+156 silly mapToRegistry   spec: 'latest',
+156 silly mapToRegistry   type: 'tag' }
+157 silly mapToRegistry uri https://registry.npmjs.org/tslib
+158 silly mapToRegistry name typescript
+159 silly mapToRegistry using default registry
+160 silly mapToRegistry registry https://registry.npmjs.org/
+161 silly mapToRegistry data Result {
+161 silly mapToRegistry   raw: 'typescript',
+161 silly mapToRegistry   scope: null,
+161 silly mapToRegistry   name: 'typescript',
+161 silly mapToRegistry   rawSpec: '',
+161 silly mapToRegistry   spec: 'latest',
+161 silly mapToRegistry   type: 'tag' }
+162 silly mapToRegistry uri https://registry.npmjs.org/typescript
+163 silly mapToRegistry name zone.js
+164 silly mapToRegistry using default registry
+165 silly mapToRegistry registry https://registry.npmjs.org/
+166 silly mapToRegistry data Result {
+166 silly mapToRegistry   raw: 'zone.js',
+166 silly mapToRegistry   scope: null,
+166 silly mapToRegistry   name: 'zone.js',
+166 silly mapToRegistry   rawSpec: '',
+166 silly mapToRegistry   spec: 'latest',
+166 silly mapToRegistry   type: 'tag' }
+167 silly mapToRegistry uri https://registry.npmjs.org/zone.js
+168 silly mapToRegistry name @angular/language-service
+169 silly mapToRegistry scope (from package name) @angular
+170 verbose mapToRegistry no registry URL found in name for scope @angular
+171 silly mapToRegistry using default registry
+172 silly mapToRegistry registry https://registry.npmjs.org/
+173 silly mapToRegistry data Result {
+173 silly mapToRegistry   raw: '@angular/language-service',
+173 silly mapToRegistry   scope: '@angular',
+173 silly mapToRegistry   name: '@angular/language-service',
+173 silly mapToRegistry   rawSpec: '',
+173 silly mapToRegistry   spec: 'latest',
+173 silly mapToRegistry   type: 'tag' }
+174 silly mapToRegistry uri https://registry.npmjs.org/@angular%2flanguage-service
+175 silly mapToRegistry name @types/chart.js
+176 silly mapToRegistry scope (from package name) @types
+177 verbose mapToRegistry no registry URL found in name for scope @types
+178 silly mapToRegistry using default registry
+179 silly mapToRegistry registry https://registry.npmjs.org/
+180 silly mapToRegistry data Result {
+180 silly mapToRegistry   raw: '@types/chart.js',
+180 silly mapToRegistry   scope: '@types',
+180 silly mapToRegistry   name: '@types/chart.js',
+180 silly mapToRegistry   rawSpec: '',
+180 silly mapToRegistry   spec: 'latest',
+180 silly mapToRegistry   type: 'tag' }
+181 silly mapToRegistry uri https://registry.npmjs.org/@types%2fchart.js
+182 silly mapToRegistry name @types/jasmine
+183 silly mapToRegistry scope (from package name) @types
+184 verbose mapToRegistry no registry URL found in name for scope @types
+185 silly mapToRegistry using default registry
+186 silly mapToRegistry registry https://registry.npmjs.org/
+187 silly mapToRegistry data Result {
+187 silly mapToRegistry   raw: '@types/jasmine',
+187 silly mapToRegistry   scope: '@types',
+187 silly mapToRegistry   name: '@types/jasmine',
+187 silly mapToRegistry   rawSpec: '',
+187 silly mapToRegistry   spec: 'latest',
+187 silly mapToRegistry   type: 'tag' }
+188 silly mapToRegistry uri https://registry.npmjs.org/@types%2fjasmine
+189 silly mapToRegistry name @types/jasminewd2
+190 silly mapToRegistry scope (from package name) @types
+191 verbose mapToRegistry no registry URL found in name for scope @types
+192 silly mapToRegistry using default registry
+193 silly mapToRegistry registry https://registry.npmjs.org/
+194 silly mapToRegistry data Result {
+194 silly mapToRegistry   raw: '@types/jasminewd2',
+194 silly mapToRegistry   scope: '@types',
+194 silly mapToRegistry   name: '@types/jasminewd2',
+194 silly mapToRegistry   rawSpec: '',
+194 silly mapToRegistry   spec: 'latest',
+194 silly mapToRegistry   type: 'tag' }
+195 silly mapToRegistry uri https://registry.npmjs.org/@types%2fjasminewd2
+196 silly mapToRegistry name @types/node
+197 silly mapToRegistry scope (from package name) @types
+198 verbose mapToRegistry no registry URL found in name for scope @types
+199 silly mapToRegistry using default registry
+200 silly mapToRegistry registry https://registry.npmjs.org/
+201 silly mapToRegistry data Result {
+201 silly mapToRegistry   raw: '@types/node',
+201 silly mapToRegistry   scope: '@types',
+201 silly mapToRegistry   name: '@types/node',
+201 silly mapToRegistry   rawSpec: '',
+201 silly mapToRegistry   spec: 'latest',
+201 silly mapToRegistry   type: 'tag' }
+202 silly mapToRegistry uri https://registry.npmjs.org/@types%2fnode
+203 silly mapToRegistry name codelyzer
+204 silly mapToRegistry using default registry
+205 silly mapToRegistry registry https://registry.npmjs.org/
+206 silly mapToRegistry data Result {
+206 silly mapToRegistry   raw: 'codelyzer',
+206 silly mapToRegistry   scope: null,
+206 silly mapToRegistry   name: 'codelyzer',
+206 silly mapToRegistry   rawSpec: '',
+206 silly mapToRegistry   spec: 'latest',
+206 silly mapToRegistry   type: 'tag' }
+207 silly mapToRegistry uri https://registry.npmjs.org/codelyzer
+208 silly mapToRegistry name http-server
+209 silly mapToRegistry using default registry
+210 silly mapToRegistry registry https://registry.npmjs.org/
+211 silly mapToRegistry data Result {
+211 silly mapToRegistry   raw: 'http-server',
+211 silly mapToRegistry   scope: null,
+211 silly mapToRegistry   name: 'http-server',
+211 silly mapToRegistry   rawSpec: '',
+211 silly mapToRegistry   spec: 'latest',
+211 silly mapToRegistry   type: 'tag' }
+212 silly mapToRegistry uri https://registry.npmjs.org/http-server
+213 silly mapToRegistry name jasmine-core
+214 silly mapToRegistry using default registry
+215 silly mapToRegistry registry https://registry.npmjs.org/
+216 silly mapToRegistry data Result {
+216 silly mapToRegistry   raw: 'jasmine-core',
+216 silly mapToRegistry   scope: null,
+216 silly mapToRegistry   name: 'jasmine-core',
+216 silly mapToRegistry   rawSpec: '',
+216 silly mapToRegistry   spec: 'latest',
+216 silly mapToRegistry   type: 'tag' }
+217 silly mapToRegistry uri https://registry.npmjs.org/jasmine-core
+218 silly mapToRegistry name jasmine-spec-reporter
+219 silly mapToRegistry using default registry
+220 silly mapToRegistry registry https://registry.npmjs.org/
+221 silly mapToRegistry data Result {
+221 silly mapToRegistry   raw: 'jasmine-spec-reporter',
+221 silly mapToRegistry   scope: null,
+221 silly mapToRegistry   name: 'jasmine-spec-reporter',
+221 silly mapToRegistry   rawSpec: '',
+221 silly mapToRegistry   spec: 'latest',
+221 silly mapToRegistry   type: 'tag' }
+222 silly mapToRegistry uri https://registry.npmjs.org/jasmine-spec-reporter
+223 silly mapToRegistry name karma
+224 silly mapToRegistry using default registry
+225 silly mapToRegistry registry https://registry.npmjs.org/
+226 silly mapToRegistry data Result {
+226 silly mapToRegistry   raw: 'karma',
+226 silly mapToRegistry   scope: null,
+226 silly mapToRegistry   name: 'karma',
+226 silly mapToRegistry   rawSpec: '',
+226 silly mapToRegistry   spec: 'latest',
+226 silly mapToRegistry   type: 'tag' }
+227 silly mapToRegistry uri https://registry.npmjs.org/karma
+228 silly mapToRegistry name karma-chrome-launcher
+229 silly mapToRegistry using default registry
+230 silly mapToRegistry registry https://registry.npmjs.org/
+231 silly mapToRegistry data Result {
+231 silly mapToRegistry   raw: 'karma-chrome-launcher',
+231 silly mapToRegistry   scope: null,
+231 silly mapToRegistry   name: 'karma-chrome-launcher',
+231 silly mapToRegistry   rawSpec: '',
+231 silly mapToRegistry   spec: 'latest',
+231 silly mapToRegistry   type: 'tag' }
+232 silly mapToRegistry uri https://registry.npmjs.org/karma-chrome-launcher
+233 silly mapToRegistry name karma-coverage-istanbul-reporter
+234 silly mapToRegistry using default registry
+235 silly mapToRegistry registry https://registry.npmjs.org/
+236 silly mapToRegistry data Result {
+236 silly mapToRegistry   raw: 'karma-coverage-istanbul-reporter',
+236 silly mapToRegistry   scope: null,
+236 silly mapToRegistry   name: 'karma-coverage-istanbul-reporter',
+236 silly mapToRegistry   rawSpec: '',
+236 silly mapToRegistry   spec: 'latest',
+236 silly mapToRegistry   type: 'tag' }
+237 silly mapToRegistry uri https://registry.npmjs.org/karma-coverage-istanbul-reporter
+238 silly mapToRegistry name karma-jasmine
+239 silly mapToRegistry using default registry
+240 silly mapToRegistry registry https://registry.npmjs.org/
+241 silly mapToRegistry data Result {
+241 silly mapToRegistry   raw: 'karma-jasmine',
+241 silly mapToRegistry   scope: null,
+241 silly mapToRegistry   name: 'karma-jasmine',
+241 silly mapToRegistry   rawSpec: '',
+241 silly mapToRegistry   spec: 'latest',
+241 silly mapToRegistry   type: 'tag' }
+242 silly mapToRegistry uri https://registry.npmjs.org/karma-jasmine
+243 silly mapToRegistry name karma-jasmine-html-reporter
+244 silly mapToRegistry using default registry
+245 silly mapToRegistry registry https://registry.npmjs.org/
+246 silly mapToRegistry data Result {
+246 silly mapToRegistry   raw: 'karma-jasmine-html-reporter',
+246 silly mapToRegistry   scope: null,
+246 silly mapToRegistry   name: 'karma-jasmine-html-reporter',
+246 silly mapToRegistry   rawSpec: '',
+246 silly mapToRegistry   spec: 'latest',
+246 silly mapToRegistry   type: 'tag' }
+247 silly mapToRegistry uri https://registry.npmjs.org/karma-jasmine-html-reporter
+248 silly mapToRegistry name protractor
+249 silly mapToRegistry using default registry
+250 silly mapToRegistry registry https://registry.npmjs.org/
+251 silly mapToRegistry data Result {
+251 silly mapToRegistry   raw: 'protractor',
+251 silly mapToRegistry   scope: null,
+251 silly mapToRegistry   name: 'protractor',
+251 silly mapToRegistry   rawSpec: '',
+251 silly mapToRegistry   spec: 'latest',
+251 silly mapToRegistry   type: 'tag' }
+252 silly mapToRegistry uri https://registry.npmjs.org/protractor
+253 silly mapToRegistry name ts-node
+254 silly mapToRegistry using default registry
+255 silly mapToRegistry registry https://registry.npmjs.org/
+256 silly mapToRegistry data Result {
+256 silly mapToRegistry   raw: 'ts-node',
+256 silly mapToRegistry   scope: null,
+256 silly mapToRegistry   name: 'ts-node',
+256 silly mapToRegistry   rawSpec: '',
+256 silly mapToRegistry   spec: 'latest',
+256 silly mapToRegistry   type: 'tag' }
+257 silly mapToRegistry uri https://registry.npmjs.org/ts-node
+258 silly mapToRegistry name tslint
+259 silly mapToRegistry using default registry
+260 silly mapToRegistry registry https://registry.npmjs.org/
+261 silly mapToRegistry data Result {
+261 silly mapToRegistry   raw: 'tslint',
+261 silly mapToRegistry   scope: null,
+261 silly mapToRegistry   name: 'tslint',
+261 silly mapToRegistry   rawSpec: '',
+261 silly mapToRegistry   spec: 'latest',
+261 silly mapToRegistry   type: 'tag' }
+262 silly mapToRegistry uri https://registry.npmjs.org/tslint
+263 verbose request uri https://registry.npmjs.org/@angular%2flanguage-service
+264 verbose request no auth needed
+265 info attempt registry request try #1 at 14:43:22
+266 verbose request id 818bf33f2334a217
+267 http request GET https://registry.npmjs.org/@angular%2flanguage-service
+268 verbose request uri https://registry.npmjs.org/@types%2fchart.js
+269 verbose request no auth needed
+270 info attempt registry request try #1 at 14:43:22
+271 http request GET https://registry.npmjs.org/@types%2fchart.js
+272 verbose request uri https://registry.npmjs.org/@types%2fjasmine
+273 verbose request no auth needed
+274 info attempt registry request try #1 at 14:43:22
+275 http request GET https://registry.npmjs.org/@types%2fjasmine
+276 verbose request uri https://registry.npmjs.org/@types%2fjasminewd2
+277 verbose request no auth needed
+278 info attempt registry request try #1 at 14:43:22
+279 http request GET https://registry.npmjs.org/@types%2fjasminewd2
+280 verbose request uri https://registry.npmjs.org/@types%2fnode
+281 verbose request no auth needed
+282 info attempt registry request try #1 at 14:43:22
+283 http request GET https://registry.npmjs.org/@types%2fnode
+284 verbose request uri https://registry.npmjs.org/codelyzer
+285 verbose request no auth needed
+286 info attempt registry request try #1 at 14:43:22
+287 http request GET https://registry.npmjs.org/codelyzer
+288 verbose request uri https://registry.npmjs.org/http-server
+289 verbose request no auth needed
+290 info attempt registry request try #1 at 14:43:22
+291 http request GET https://registry.npmjs.org/http-server
+292 verbose request uri https://registry.npmjs.org/jasmine-core
+293 verbose request no auth needed
+294 info attempt registry request try #1 at 14:43:22
+295 http request GET https://registry.npmjs.org/jasmine-core
+296 verbose request uri https://registry.npmjs.org/jasmine-spec-reporter
+297 verbose request no auth needed
+298 info attempt registry request try #1 at 14:43:22
+299 http request GET https://registry.npmjs.org/jasmine-spec-reporter
+300 verbose request uri https://registry.npmjs.org/karma
+301 verbose request no auth needed
+302 info attempt registry request try #1 at 14:43:22
+303 http request GET https://registry.npmjs.org/karma
+304 verbose request uri https://registry.npmjs.org/karma-chrome-launcher
+305 verbose request no auth needed
+306 info attempt registry request try #1 at 14:43:22
+307 http request GET https://registry.npmjs.org/karma-chrome-launcher
+308 verbose request uri https://registry.npmjs.org/karma-coverage-istanbul-reporter
+309 verbose request no auth needed
+310 info attempt registry request try #1 at 14:43:22
+311 http request GET https://registry.npmjs.org/karma-coverage-istanbul-reporter
+312 verbose request uri https://registry.npmjs.org/karma-jasmine
+313 verbose request no auth needed
+314 info attempt registry request try #1 at 14:43:22
+315 http request GET https://registry.npmjs.org/karma-jasmine
+316 verbose request uri https://registry.npmjs.org/karma-jasmine-html-reporter
+317 verbose request no auth needed
+318 info attempt registry request try #1 at 14:43:22
+319 http request GET https://registry.npmjs.org/karma-jasmine-html-reporter
+320 verbose request uri https://registry.npmjs.org/protractor
+321 verbose request no auth needed
+322 info attempt registry request try #1 at 14:43:22
+323 http request GET https://registry.npmjs.org/protractor
+324 verbose request uri https://registry.npmjs.org/ts-node
+325 verbose request no auth needed
+326 info attempt registry request try #1 at 14:43:22
+327 http request GET https://registry.npmjs.org/ts-node
+328 verbose request uri https://registry.npmjs.org/tslint
+329 verbose request no auth needed
+330 info attempt registry request try #1 at 14:43:22
+331 http request GET https://registry.npmjs.org/tslint
+332 verbose request uri https://registry.npmjs.org/@angular-devkit%2fbuild-angular
+333 verbose request no auth needed
+334 info attempt registry request try #1 at 14:43:22
+335 verbose etag W/"ebdab4b40defe72d956497f92c08d8dd"
+336 verbose lastModified Wed, 29 Nov 2023 23:37:18 GMT
+337 http request GET https://registry.npmjs.org/@angular-devkit%2fbuild-angular
+338 verbose request uri https://registry.npmjs.org/@angular%2fanimations
+339 verbose request no auth needed
+340 info attempt registry request try #1 at 14:43:22
+341 verbose etag W/"df68cb0cefac954fc1e2cdb27de9978f"
+342 verbose lastModified Wed, 29 Nov 2023 17:31:57 GMT
+343 http request GET https://registry.npmjs.org/@angular%2fanimations
+344 verbose request uri https://registry.npmjs.org/@angular%2fcommon
+345 verbose request no auth needed
+346 info attempt registry request try #1 at 14:43:22
+347 verbose etag W/"9bf0e219443386bb9a2d10bc0f314533"
+348 verbose lastModified Wed, 29 Nov 2023 17:32:09 GMT
+349 http request GET https://registry.npmjs.org/@angular%2fcommon
+350 verbose request uri https://registry.npmjs.org/@angular%2fcompiler
+351 verbose request no auth needed
+352 info attempt registry request try #1 at 14:43:22
+353 verbose etag W/"a545d9ba4808b890e0206cbc81aeb723"
+354 verbose lastModified Wed, 29 Nov 2023 17:32:23 GMT
+355 http request GET https://registry.npmjs.org/@angular%2fcompiler
+356 verbose request uri https://registry.npmjs.org/@angular%2fcompiler-cli
+357 verbose request no auth needed
+358 info attempt registry request try #1 at 14:43:22
+359 verbose etag W/"759e1c2ee80bde800dbd357d9cccac58"
+360 verbose lastModified Wed, 29 Nov 2023 17:32:30 GMT
+361 http request GET https://registry.npmjs.org/@angular%2fcompiler-cli
+362 verbose request uri https://registry.npmjs.org/@angular%2fcore
+363 verbose request no auth needed
+364 info attempt registry request try #1 at 14:43:22
+365 verbose etag W/"932d403bd6095e3b9b5b22e97e67aa2f"
+366 verbose lastModified Wed, 29 Nov 2023 17:32:59 GMT
+367 http request GET https://registry.npmjs.org/@angular%2fcore
+368 verbose request uri https://registry.npmjs.org/@angular%2fcdk
+369 verbose request no auth needed
+370 info attempt registry request try #1 at 14:43:22
+371 verbose etag W/"c6a944cb338228b4fe3dad93ed5bb924"
+372 verbose lastModified Fri, 01 Dec 2023 21:53:43 GMT
+373 http request GET https://registry.npmjs.org/@angular%2fcdk
+374 verbose request uri https://registry.npmjs.org/@angular%2flocalize
+375 verbose request no auth needed
+376 info attempt registry request try #1 at 14:43:22
+377 verbose etag W/"cd25cce08c7eeb43a2a9bac8c974c906"
+378 verbose lastModified Wed, 29 Nov 2023 17:33:42 GMT
+379 http request GET https://registry.npmjs.org/@angular%2flocalize
+380 verbose request uri https://registry.npmjs.org/@angular%2fcli
+381 verbose request no auth needed
+382 info attempt registry request try #1 at 14:43:22
+383 verbose etag W/"99b1ac64cecfd722cf3ffb6d7e1887b2"
+384 verbose lastModified Wed, 29 Nov 2023 23:36:45 GMT
+385 http request GET https://registry.npmjs.org/@angular%2fcli
+386 verbose request uri https://registry.npmjs.org/@angular%2fforms
+387 verbose request no auth needed
+388 info attempt registry request try #1 at 14:43:23
+389 verbose etag W/"cbfa071b4dc22e41fef65b42acf0f9eb"
+390 verbose lastModified Wed, 29 Nov 2023 17:33:09 GMT
+391 http request GET https://registry.npmjs.org/@angular%2fforms
+392 verbose request uri https://registry.npmjs.org/@angular%2fservice-worker
+393 verbose request no auth needed
+394 info attempt registry request try #1 at 14:43:23
+395 verbose etag W/"9db56b1891311ac4e5f7768bc8155c9b"
+396 verbose lastModified Wed, 29 Nov 2023 17:34:24 GMT
+397 http request GET https://registry.npmjs.org/@angular%2fservice-worker
+398 verbose request uri https://registry.npmjs.org/@dwtechs%2fcheckhard
+399 verbose request no auth needed
+400 info attempt registry request try #1 at 14:43:23
+401 verbose etag W/"1dd2794244d7fb6ddbe6d876e1a66200"
+402 verbose lastModified Wed, 18 Oct 2023 18:37:47 GMT
+403 http request GET https://registry.npmjs.org/@dwtechs%2fcheckhard
+404 verbose request uri https://registry.npmjs.org/@angular%2frouter
+405 verbose request no auth needed
+406 info attempt registry request try #1 at 14:43:23
+407 verbose etag W/"d75b425fca200494e79b1d3a077e9573"
+408 verbose lastModified Wed, 29 Nov 2023 17:34:20 GMT
+409 http request GET https://registry.npmjs.org/@angular%2frouter
+410 verbose request uri https://registry.npmjs.org/@angular%2fplatform-browser
+411 verbose request no auth needed
+412 info attempt registry request try #1 at 14:43:23
+413 verbose etag W/"a6ff51a102df1db84e7d887c19167a83"
+414 verbose lastModified Wed, 29 Nov 2023 17:33:49 GMT
+415 http request GET https://registry.npmjs.org/@angular%2fplatform-browser
+416 verbose request uri https://registry.npmjs.org/@dwtechs%2fctrltab
+417 verbose request no auth needed
+418 info attempt registry request try #1 at 14:43:23
+419 verbose etag W/"e2df5feadb7bb4349b5ac13ad74521ca"
+420 verbose lastModified Tue, 05 Apr 2022 06:13:19 GMT
+421 http request GET https://registry.npmjs.org/@dwtechs%2fctrltab
+422 verbose request uri https://registry.npmjs.org/core-js
+423 verbose request no auth needed
+424 info attempt registry request try #1 at 14:43:23
+425 verbose etag W/"72d9f5de0a4a632afaf7c9933297afa2"
+426 verbose lastModified Sun, 19 Nov 2023 18:08:20 GMT
+427 http request GET https://registry.npmjs.org/core-js
+428 verbose request uri https://registry.npmjs.org/file-saver
+429 verbose request no auth needed
+430 info attempt registry request try #1 at 14:43:23
+431 verbose etag W/"79169e8bdd5e6586915dbf1bc83c6eaa"
+432 verbose lastModified Sun, 20 Aug 2023 09:33:35 GMT
+433 http request GET https://registry.npmjs.org/file-saver
+434 verbose request uri https://registry.npmjs.org/@angular%2fplatform-browser-dynamic
+435 verbose request no auth needed
+436 info attempt registry request try #1 at 14:43:23
+437 verbose etag W/"544ecc32a42f8b74afcf47e057214dec"
+438 verbose lastModified Wed, 29 Nov 2023 17:33:55 GMT
+439 http request GET https://registry.npmjs.org/@angular%2fplatform-browser-dynamic
+440 verbose request uri https://registry.npmjs.org/primeicons
+441 verbose request no auth needed
+442 info attempt registry request try #1 at 14:43:23
+443 verbose etag W/"a7462ae7240ce4d31c4e79b07edbd520"
+444 verbose lastModified Tue, 20 Sep 2022 19:31:43 GMT
+445 http request GET https://registry.npmjs.org/primeicons
+446 verbose request uri https://registry.npmjs.org/@dwtechs%2fcsvx
+447 verbose request no auth needed
+448 info attempt registry request try #1 at 14:43:23
+449 verbose etag W/"7afda940d3d2c0367faaece1bdb4f518"
+450 verbose lastModified Tue, 10 May 2022 23:19:52 GMT
+451 http request GET https://registry.npmjs.org/@dwtechs%2fcsvx
+452 verbose request uri https://registry.npmjs.org/rxjs
+453 verbose request no auth needed
+454 info attempt registry request try #1 at 14:43:23
+455 verbose etag W/"c285d3933d1aff6eb2284653cdbdb203"
+456 verbose lastModified Sat, 19 Aug 2023 17:05:55 GMT
+457 http request GET https://registry.npmjs.org/rxjs
+458 verbose request uri https://registry.npmjs.org/tslib
+459 verbose request no auth needed
+460 info attempt registry request try #1 at 14:43:23
+461 verbose etag W/"2600306873485a1d2ff0ae3640e5ee03"
+462 verbose lastModified Fri, 18 Aug 2023 17:42:00 GMT
+463 http request GET https://registry.npmjs.org/tslib
+464 verbose request uri https://registry.npmjs.org/primeng
+465 verbose request no auth needed
+466 info attempt registry request try #1 at 14:43:23
+467 verbose etag W/"029bf4667c453d4e27b1db3f41757f06"
+468 verbose lastModified Wed, 29 Nov 2023 16:00:32 GMT
+469 http request GET https://registry.npmjs.org/primeng
+470 verbose request uri https://registry.npmjs.org/zone.js
+471 verbose request no auth needed
+472 info attempt registry request try #1 at 14:43:23
+473 verbose etag W/"cfc54c025a54961b81319ce8d1979cfc"
+474 verbose lastModified Fri, 03 Nov 2023 17:59:23 GMT
+475 http request GET https://registry.npmjs.org/zone.js
+476 verbose request uri https://registry.npmjs.org/typescript
+477 verbose request no auth needed
+478 info attempt registry request try #1 at 14:43:23
+479 verbose etag W/"063486538abcc84986afc136fc129240"
+480 verbose lastModified Mon, 04 Dec 2023 07:10:01 GMT
+481 http request GET https://registry.npmjs.org/typescript
+482 verbose request uri https://registry.npmjs.org/highlight.js
+483 verbose request no auth needed
+484 info attempt registry request try #1 at 14:43:23
+485 verbose etag W/"bfc8d109c74fcefd8a5fcbd73836b2ed"
+486 verbose lastModified Mon, 09 Oct 2023 03:53:07 GMT
+487 http request GET https://registry.npmjs.org/highlight.js
+488 http 304 https://registry.npmjs.org/file-saver
+489 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+489 verbose headers   connection: 'keep-alive',
+489 verbose headers   'cf-ray': '83047a612e9a99dc-CDG',
+489 verbose headers   'cf-cache-status': 'HIT',
+489 verbose headers   age: '80',
+489 verbose headers   'cache-control': 'public, max-age=300',
+489 verbose headers   etag: '"79169e8bdd5e6586915dbf1bc83c6eaa"',
+489 verbose headers   'last-modified': 'Sun, 20 Aug 2023 09:33:35 GMT',
+489 verbose headers   vary: 'Accept-Encoding',
+489 verbose headers   server: 'cloudflare' }
+490 silly get cb [ 304,
+490 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+490 silly get     connection: 'keep-alive',
+490 silly get     'cf-ray': '83047a612e9a99dc-CDG',
+490 silly get     'cf-cache-status': 'HIT',
+490 silly get     age: '80',
+490 silly get     'cache-control': 'public, max-age=300',
+490 silly get     etag: '"79169e8bdd5e6586915dbf1bc83c6eaa"',
+490 silly get     'last-modified': 'Sun, 20 Aug 2023 09:33:35 GMT',
+490 silly get     vary: 'Accept-Encoding',
+490 silly get     server: 'cloudflare' } ]
+491 verbose etag https://registry.npmjs.org/file-saver from cache
+492 verbose get saving file-saver to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\file-saver\.cache.json
+493 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+494 http 304 https://registry.npmjs.org/@angular%2fcompiler-cli
+495 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+495 verbose headers   connection: 'keep-alive',
+495 verbose headers   'cf-ray': '83047a612a2cd578-CDG',
+495 verbose headers   'cf-cache-status': 'HIT',
+495 verbose headers   age: '195',
+495 verbose headers   'cache-control': 'public, max-age=300',
+495 verbose headers   etag: '"759e1c2ee80bde800dbd357d9cccac58"',
+495 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:32:30 GMT',
+495 verbose headers   vary: 'Accept-Encoding',
+495 verbose headers   server: 'cloudflare' }
+496 silly get cb [ 304,
+496 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+496 silly get     connection: 'keep-alive',
+496 silly get     'cf-ray': '83047a612a2cd578-CDG',
+496 silly get     'cf-cache-status': 'HIT',
+496 silly get     age: '195',
+496 silly get     'cache-control': 'public, max-age=300',
+496 silly get     etag: '"759e1c2ee80bde800dbd357d9cccac58"',
+496 silly get     'last-modified': 'Wed, 29 Nov 2023 17:32:30 GMT',
+496 silly get     vary: 'Accept-Encoding',
+496 silly get     server: 'cloudflare' } ]
+497 verbose etag https://registry.npmjs.org/@angular%2fcompiler-cli from cache
+498 verbose get saving @angular/compiler-cli to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fcompiler-cli\.cache.json
+499 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+500 http 304 https://registry.npmjs.org/@angular%2fcore
+501 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+501 verbose headers   connection: 'keep-alive',
+501 verbose headers   'cf-ray': '83047a612f342a0f-CDG',
+501 verbose headers   'cf-cache-status': 'HIT',
+501 verbose headers   age: '124',
+501 verbose headers   'cache-control': 'public, max-age=300',
+501 verbose headers   etag: '"932d403bd6095e3b9b5b22e97e67aa2f"',
+501 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:32:59 GMT',
+501 verbose headers   vary: 'Accept-Encoding',
+501 verbose headers   server: 'cloudflare' }
+502 silly get cb [ 304,
+502 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+502 silly get     connection: 'keep-alive',
+502 silly get     'cf-ray': '83047a612f342a0f-CDG',
+502 silly get     'cf-cache-status': 'HIT',
+502 silly get     age: '124',
+502 silly get     'cache-control': 'public, max-age=300',
+502 silly get     etag: '"932d403bd6095e3b9b5b22e97e67aa2f"',
+502 silly get     'last-modified': 'Wed, 29 Nov 2023 17:32:59 GMT',
+502 silly get     vary: 'Accept-Encoding',
+502 silly get     server: 'cloudflare' } ]
+503 verbose etag https://registry.npmjs.org/@angular%2fcore from cache
+504 verbose get saving @angular/core to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fcore\.cache.json
+505 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+506 http 304 https://registry.npmjs.org/@angular%2fcompiler
+507 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+507 verbose headers   connection: 'keep-alive',
+507 verbose headers   'cf-ray': '83047a612e8b2a07-CDG',
+507 verbose headers   'cf-cache-status': 'HIT',
+507 verbose headers   age: '263',
+507 verbose headers   'cache-control': 'public, max-age=300',
+507 verbose headers   etag: '"a545d9ba4808b890e0206cbc81aeb723"',
+507 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:32:23 GMT',
+507 verbose headers   vary: 'Accept-Encoding',
+507 verbose headers   server: 'cloudflare' }
+508 silly get cb [ 304,
+508 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+508 silly get     connection: 'keep-alive',
+508 silly get     'cf-ray': '83047a612e8b2a07-CDG',
+508 silly get     'cf-cache-status': 'HIT',
+508 silly get     age: '263',
+508 silly get     'cache-control': 'public, max-age=300',
+508 silly get     etag: '"a545d9ba4808b890e0206cbc81aeb723"',
+508 silly get     'last-modified': 'Wed, 29 Nov 2023 17:32:23 GMT',
+508 silly get     vary: 'Accept-Encoding',
+508 silly get     server: 'cloudflare' } ]
+509 verbose etag https://registry.npmjs.org/@angular%2fcompiler from cache
+510 verbose get saving @angular/compiler to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fcompiler\.cache.json
+511 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+512 http 304 https://registry.npmjs.org/core-js
+513 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+513 verbose headers   connection: 'keep-alive',
+513 verbose headers   'cf-ray': '83047a61288e2a6a-CDG',
+513 verbose headers   'cf-cache-status': 'HIT',
+513 verbose headers   age: '41',
+513 verbose headers   'cache-control': 'public, max-age=300',
+513 verbose headers   etag: '"72d9f5de0a4a632afaf7c9933297afa2"',
+513 verbose headers   'last-modified': 'Sun, 19 Nov 2023 18:08:20 GMT',
+513 verbose headers   vary: 'Accept-Encoding',
+513 verbose headers   server: 'cloudflare' }
+514 silly get cb [ 304,
+514 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+514 silly get     connection: 'keep-alive',
+514 silly get     'cf-ray': '83047a61288e2a6a-CDG',
+514 silly get     'cf-cache-status': 'HIT',
+514 silly get     age: '41',
+514 silly get     'cache-control': 'public, max-age=300',
+514 silly get     etag: '"72d9f5de0a4a632afaf7c9933297afa2"',
+514 silly get     'last-modified': 'Sun, 19 Nov 2023 18:08:20 GMT',
+514 silly get     vary: 'Accept-Encoding',
+514 silly get     server: 'cloudflare' } ]
+515 verbose etag https://registry.npmjs.org/core-js from cache
+516 verbose get saving core-js to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\core-js\.cache.json
+517 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+518 http 304 https://registry.npmjs.org/@angular%2fcli
+519 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+519 verbose headers   connection: 'keep-alive',
+519 verbose headers   'cf-ray': '83047a612f371543-CDG',
+519 verbose headers   'cf-cache-status': 'HIT',
+519 verbose headers   age: '166',
+519 verbose headers   'cache-control': 'public, max-age=300',
+519 verbose headers   etag: '"99b1ac64cecfd722cf3ffb6d7e1887b2"',
+519 verbose headers   'last-modified': 'Wed, 29 Nov 2023 23:36:45 GMT',
+519 verbose headers   vary: 'Accept-Encoding',
+519 verbose headers   server: 'cloudflare' }
+520 silly get cb [ 304,
+520 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+520 silly get     connection: 'keep-alive',
+520 silly get     'cf-ray': '83047a612f371543-CDG',
+520 silly get     'cf-cache-status': 'HIT',
+520 silly get     age: '166',
+520 silly get     'cache-control': 'public, max-age=300',
+520 silly get     etag: '"99b1ac64cecfd722cf3ffb6d7e1887b2"',
+520 silly get     'last-modified': 'Wed, 29 Nov 2023 23:36:45 GMT',
+520 silly get     vary: 'Accept-Encoding',
+520 silly get     server: 'cloudflare' } ]
+521 verbose etag https://registry.npmjs.org/@angular%2fcli from cache
+522 verbose get saving @angular/cli to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fcli\.cache.json
+523 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+524 http 304 https://registry.npmjs.org/@angular%2fplatform-browser
+525 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+525 verbose headers   connection: 'keep-alive',
+525 verbose headers   'cf-ray': '83047a612ce60411-CDG',
+525 verbose headers   'cf-cache-status': 'HIT',
+525 verbose headers   age: '263',
+525 verbose headers   'cache-control': 'public, max-age=300',
+525 verbose headers   etag: '"a6ff51a102df1db84e7d887c19167a83"',
+525 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:33:49 GMT',
+525 verbose headers   vary: 'Accept-Encoding',
+525 verbose headers   server: 'cloudflare' }
+526 silly get cb [ 304,
+526 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+526 silly get     connection: 'keep-alive',
+526 silly get     'cf-ray': '83047a612ce60411-CDG',
+526 silly get     'cf-cache-status': 'HIT',
+526 silly get     age: '263',
+526 silly get     'cache-control': 'public, max-age=300',
+526 silly get     etag: '"a6ff51a102df1db84e7d887c19167a83"',
+526 silly get     'last-modified': 'Wed, 29 Nov 2023 17:33:49 GMT',
+526 silly get     vary: 'Accept-Encoding',
+526 silly get     server: 'cloudflare' } ]
+527 verbose etag https://registry.npmjs.org/@angular%2fplatform-browser from cache
+528 verbose get saving @angular/platform-browser to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fplatform-browser\.cache.json
+529 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+530 http 200 https://registry.npmjs.org/karma-chrome-launcher
+531 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+531 verbose headers   'content-type': 'application/json',
+531 verbose headers   'transfer-encoding': 'chunked',
+531 verbose headers   connection: 'keep-alive',
+531 verbose headers   'cf-ray': '83047a5fea79d34b-CDG',
+531 verbose headers   'cf-cache-status': 'HIT',
+531 verbose headers   'access-control-allow-origin': '*',
+531 verbose headers   age: '231',
+531 verbose headers   'cache-control': 'public, max-age=300',
+531 verbose headers   etag: 'W/"f63eb8b2daa7fa96f0f55b2e7f4d8441"',
+531 verbose headers   'last-modified': 'Thu, 20 Apr 2023 19:45:47 GMT',
+531 verbose headers   vary: 'accept-encoding, accept',
+531 verbose headers   server: 'cloudflare',
+531 verbose headers   'content-encoding': 'gzip' }
+532 silly get cb [ 200,
+532 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+532 silly get     'content-type': 'application/json',
+532 silly get     'transfer-encoding': 'chunked',
+532 silly get     connection: 'keep-alive',
+532 silly get     'cf-ray': '83047a5fea79d34b-CDG',
+532 silly get     'cf-cache-status': 'HIT',
+532 silly get     'access-control-allow-origin': '*',
+532 silly get     age: '231',
+532 silly get     'cache-control': 'public, max-age=300',
+532 silly get     etag: 'W/"f63eb8b2daa7fa96f0f55b2e7f4d8441"',
+532 silly get     'last-modified': 'Thu, 20 Apr 2023 19:45:47 GMT',
+532 silly get     vary: 'accept-encoding, accept',
+532 silly get     server: 'cloudflare',
+532 silly get     'content-encoding': 'gzip' } ]
+533 verbose get saving karma-chrome-launcher to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\karma-chrome-launcher\.cache.json
+534 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+535 http 304 https://registry.npmjs.org/@angular%2frouter
+536 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+536 verbose headers   connection: 'keep-alive',
+536 verbose headers   'cf-ray': '83047a612df6027c-CDG',
+536 verbose headers   'cf-cache-status': 'HIT',
+536 verbose headers   age: '196',
+536 verbose headers   'cache-control': 'public, max-age=300',
+536 verbose headers   etag: '"d75b425fca200494e79b1d3a077e9573"',
+536 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:34:20 GMT',
+536 verbose headers   vary: 'Accept-Encoding',
+536 verbose headers   server: 'cloudflare' }
+537 silly get cb [ 304,
+537 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+537 silly get     connection: 'keep-alive',
+537 silly get     'cf-ray': '83047a612df6027c-CDG',
+537 silly get     'cf-cache-status': 'HIT',
+537 silly get     age: '196',
+537 silly get     'cache-control': 'public, max-age=300',
+537 silly get     etag: '"d75b425fca200494e79b1d3a077e9573"',
+537 silly get     'last-modified': 'Wed, 29 Nov 2023 17:34:20 GMT',
+537 silly get     vary: 'Accept-Encoding',
+537 silly get     server: 'cloudflare' } ]
+538 verbose etag https://registry.npmjs.org/@angular%2frouter from cache
+539 verbose get saving @angular/router to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252frouter\.cache.json
+540 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+541 http 200 https://registry.npmjs.org/karma-jasmine-html-reporter
+542 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+542 verbose headers   'content-type': 'application/json',
+542 verbose headers   'transfer-encoding': 'chunked',
+542 verbose headers   connection: 'keep-alive',
+542 verbose headers   'cf-ray': '83047a600b33020c-CDG',
+542 verbose headers   'cf-cache-status': 'HIT',
+542 verbose headers   'access-control-allow-origin': '*',
+542 verbose headers   age: '209',
+542 verbose headers   'cache-control': 'public, max-age=300',
+542 verbose headers   etag: 'W/"a5c94b7084a916a59745bd6e19be072e"',
+542 verbose headers   'last-modified': 'Mon, 05 Jun 2023 04:31:43 GMT',
+542 verbose headers   vary: 'accept-encoding, accept',
+542 verbose headers   server: 'cloudflare',
+542 verbose headers   'content-encoding': 'gzip' }
+543 silly get cb [ 200,
+543 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+543 silly get     'content-type': 'application/json',
+543 silly get     'transfer-encoding': 'chunked',
+543 silly get     connection: 'keep-alive',
+543 silly get     'cf-ray': '83047a600b33020c-CDG',
+543 silly get     'cf-cache-status': 'HIT',
+543 silly get     'access-control-allow-origin': '*',
+543 silly get     age: '209',
+543 silly get     'cache-control': 'public, max-age=300',
+543 silly get     etag: 'W/"a5c94b7084a916a59745bd6e19be072e"',
+543 silly get     'last-modified': 'Mon, 05 Jun 2023 04:31:43 GMT',
+543 silly get     vary: 'accept-encoding, accept',
+543 silly get     server: 'cloudflare',
+543 silly get     'content-encoding': 'gzip' } ]
+544 verbose get saving karma-jasmine-html-reporter to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\karma-jasmine-html-reporter\.cache.json
+545 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+546 http 304 https://registry.npmjs.org/typescript
+547 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+547 verbose headers   connection: 'keep-alive',
+547 verbose headers   'cf-ray': '83047a615f6f7023-CDG',
+547 verbose headers   'cf-cache-status': 'HIT',
+547 verbose headers   age: '213',
+547 verbose headers   'cache-control': 'public, max-age=300',
+547 verbose headers   etag: '"063486538abcc84986afc136fc129240"',
+547 verbose headers   'last-modified': 'Mon, 04 Dec 2023 07:10:01 GMT',
+547 verbose headers   vary: 'Accept-Encoding',
+547 verbose headers   server: 'cloudflare' }
+548 silly get cb [ 304,
+548 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+548 silly get     connection: 'keep-alive',
+548 silly get     'cf-ray': '83047a615f6f7023-CDG',
+548 silly get     'cf-cache-status': 'HIT',
+548 silly get     age: '213',
+548 silly get     'cache-control': 'public, max-age=300',
+548 silly get     etag: '"063486538abcc84986afc136fc129240"',
+548 silly get     'last-modified': 'Mon, 04 Dec 2023 07:10:01 GMT',
+548 silly get     vary: 'Accept-Encoding',
+548 silly get     server: 'cloudflare' } ]
+549 verbose etag https://registry.npmjs.org/typescript from cache
+550 verbose get saving typescript to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\typescript\.cache.json
+551 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+552 http 304 https://registry.npmjs.org/@angular%2fplatform-browser-dynamic
+553 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+553 verbose headers   connection: 'keep-alive',
+553 verbose headers   'cf-ray': '83047a612db4d5e1-CDG',
+553 verbose headers   'cf-cache-status': 'HIT',
+553 verbose headers   age: '234',
+553 verbose headers   'cache-control': 'public, max-age=300',
+553 verbose headers   etag: '"544ecc32a42f8b74afcf47e057214dec"',
+553 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:33:55 GMT',
+553 verbose headers   vary: 'Accept-Encoding',
+553 verbose headers   server: 'cloudflare' }
+554 silly get cb [ 304,
+554 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+554 silly get     connection: 'keep-alive',
+554 silly get     'cf-ray': '83047a612db4d5e1-CDG',
+554 silly get     'cf-cache-status': 'HIT',
+554 silly get     age: '234',
+554 silly get     'cache-control': 'public, max-age=300',
+554 silly get     etag: '"544ecc32a42f8b74afcf47e057214dec"',
+554 silly get     'last-modified': 'Wed, 29 Nov 2023 17:33:55 GMT',
+554 silly get     vary: 'Accept-Encoding',
+554 silly get     server: 'cloudflare' } ]
+555 verbose etag https://registry.npmjs.org/@angular%2fplatform-browser-dynamic from cache
+556 verbose get saving @angular/platform-browser-dynamic to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fplatform-browser-dynamic\.cache.json
+557 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+558 http 304 https://registry.npmjs.org/@angular%2fcdk
+559 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+559 verbose headers   connection: 'keep-alive',
+559 verbose headers   'cf-ray': '83047a613da26f0e-CDG',
+559 verbose headers   'cf-cache-status': 'HIT',
+559 verbose headers   age: '262',
+559 verbose headers   'cache-control': 'public, max-age=300',
+559 verbose headers   etag: '"c6a944cb338228b4fe3dad93ed5bb924"',
+559 verbose headers   'last-modified': 'Fri, 01 Dec 2023 21:53:43 GMT',
+559 verbose headers   vary: 'Accept-Encoding',
+559 verbose headers   server: 'cloudflare' }
+560 silly get cb [ 304,
+560 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+560 silly get     connection: 'keep-alive',
+560 silly get     'cf-ray': '83047a613da26f0e-CDG',
+560 silly get     'cf-cache-status': 'HIT',
+560 silly get     age: '262',
+560 silly get     'cache-control': 'public, max-age=300',
+560 silly get     etag: '"c6a944cb338228b4fe3dad93ed5bb924"',
+560 silly get     'last-modified': 'Fri, 01 Dec 2023 21:53:43 GMT',
+560 silly get     vary: 'Accept-Encoding',
+560 silly get     server: 'cloudflare' } ]
+561 verbose etag https://registry.npmjs.org/@angular%2fcdk from cache
+562 verbose get saving @angular/cdk to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fcdk\.cache.json
+563 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+564 http 304 https://registry.npmjs.org/@dwtechs%2fcheckhard
+565 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+565 verbose headers   connection: 'keep-alive',
+565 verbose headers   'cf-ray': '83047a612e636fd6-CDG',
+565 verbose headers   'cf-cache-status': 'HIT',
+565 verbose headers   age: '133',
+565 verbose headers   'cache-control': 'public, max-age=300',
+565 verbose headers   etag: '"1dd2794244d7fb6ddbe6d876e1a66200"',
+565 verbose headers   'last-modified': 'Wed, 18 Oct 2023 18:37:47 GMT',
+565 verbose headers   vary: 'Accept-Encoding',
+565 verbose headers   server: 'cloudflare' }
+566 silly get cb [ 304,
+566 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+566 silly get     connection: 'keep-alive',
+566 silly get     'cf-ray': '83047a612e636fd6-CDG',
+566 silly get     'cf-cache-status': 'HIT',
+566 silly get     age: '133',
+566 silly get     'cache-control': 'public, max-age=300',
+566 silly get     etag: '"1dd2794244d7fb6ddbe6d876e1a66200"',
+566 silly get     'last-modified': 'Wed, 18 Oct 2023 18:37:47 GMT',
+566 silly get     vary: 'Accept-Encoding',
+566 silly get     server: 'cloudflare' } ]
+567 verbose etag https://registry.npmjs.org/@dwtechs%2fcheckhard from cache
+568 verbose get saving @dwtechs/checkhard to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40dwtechs_252fcheckhard\.cache.json
+569 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+570 http 304 https://registry.npmjs.org/zone.js
+571 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+571 verbose headers   connection: 'keep-alive',
+571 verbose headers   'cf-ray': '83047a61bec9027c-CDG',
+571 verbose headers   'cf-cache-status': 'HIT',
+571 verbose headers   age: '205',
+571 verbose headers   'cache-control': 'public, max-age=300',
+571 verbose headers   etag: '"cfc54c025a54961b81319ce8d1979cfc"',
+571 verbose headers   'last-modified': 'Fri, 03 Nov 2023 17:59:23 GMT',
+571 verbose headers   vary: 'Accept-Encoding',
+571 verbose headers   server: 'cloudflare' }
+572 silly get cb [ 304,
+572 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+572 silly get     connection: 'keep-alive',
+572 silly get     'cf-ray': '83047a61bec9027c-CDG',
+572 silly get     'cf-cache-status': 'HIT',
+572 silly get     age: '205',
+572 silly get     'cache-control': 'public, max-age=300',
+572 silly get     etag: '"cfc54c025a54961b81319ce8d1979cfc"',
+572 silly get     'last-modified': 'Fri, 03 Nov 2023 17:59:23 GMT',
+572 silly get     vary: 'Accept-Encoding',
+572 silly get     server: 'cloudflare' } ]
+573 verbose etag https://registry.npmjs.org/zone.js from cache
+574 verbose get saving zone.js to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\zone.js\.cache.json
+575 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+576 http 200 https://registry.npmjs.org/http-server
+577 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+577 verbose headers   'content-type': 'application/json',
+577 verbose headers   'transfer-encoding': 'chunked',
+577 verbose headers   connection: 'keep-alive',
+577 verbose headers   'cf-ray': '83047a5fe9a82a1c-CDG',
+577 verbose headers   'cf-cache-status': 'HIT',
+577 verbose headers   'access-control-allow-origin': '*',
+577 verbose headers   age: '119',
+577 verbose headers   'cache-control': 'public, max-age=300',
+577 verbose headers   etag: 'W/"25a1652a3b7da7cfc75ae18234e75607"',
+577 verbose headers   'last-modified': 'Sat, 21 Oct 2023 01:41:15 GMT',
+577 verbose headers   vary: 'accept-encoding, accept',
+577 verbose headers   server: 'cloudflare',
+577 verbose headers   'content-encoding': 'gzip' }
+578 silly get cb [ 200,
+578 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+578 silly get     'content-type': 'application/json',
+578 silly get     'transfer-encoding': 'chunked',
+578 silly get     connection: 'keep-alive',
+578 silly get     'cf-ray': '83047a5fe9a82a1c-CDG',
+578 silly get     'cf-cache-status': 'HIT',
+578 silly get     'access-control-allow-origin': '*',
+578 silly get     age: '119',
+578 silly get     'cache-control': 'public, max-age=300',
+578 silly get     etag: 'W/"25a1652a3b7da7cfc75ae18234e75607"',
+578 silly get     'last-modified': 'Sat, 21 Oct 2023 01:41:15 GMT',
+578 silly get     vary: 'accept-encoding, accept',
+578 silly get     server: 'cloudflare',
+578 silly get     'content-encoding': 'gzip' } ]
+579 verbose get saving http-server to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\http-server\.cache.json
+580 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+581 http 304 https://registry.npmjs.org/highlight.js
+582 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+582 verbose headers   connection: 'keep-alive',
+582 verbose headers   'cf-ray': '83047a627acc2a04-CDG',
+582 verbose headers   'cf-cache-status': 'HIT',
+582 verbose headers   age: '274',
+582 verbose headers   'cache-control': 'public, max-age=300',
+582 verbose headers   etag: '"bfc8d109c74fcefd8a5fcbd73836b2ed"',
+582 verbose headers   'last-modified': 'Mon, 09 Oct 2023 03:53:07 GMT',
+582 verbose headers   vary: 'Accept-Encoding',
+582 verbose headers   server: 'cloudflare' }
+583 silly get cb [ 304,
+583 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+583 silly get     connection: 'keep-alive',
+583 silly get     'cf-ray': '83047a627acc2a04-CDG',
+583 silly get     'cf-cache-status': 'HIT',
+583 silly get     age: '274',
+583 silly get     'cache-control': 'public, max-age=300',
+583 silly get     etag: '"bfc8d109c74fcefd8a5fcbd73836b2ed"',
+583 silly get     'last-modified': 'Mon, 09 Oct 2023 03:53:07 GMT',
+583 silly get     vary: 'Accept-Encoding',
+583 silly get     server: 'cloudflare' } ]
+584 verbose etag https://registry.npmjs.org/highlight.js from cache
+585 verbose get saving highlight.js to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\highlight.js\.cache.json
+586 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+587 http 304 https://registry.npmjs.org/@angular%2fservice-worker
+588 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+588 verbose headers   connection: 'keep-alive',
+588 verbose headers   'cf-ray': '83047a632cab0253-CDG',
+588 verbose headers   'cf-cache-status': 'HIT',
+588 verbose headers   age: '193',
+588 verbose headers   'cache-control': 'public, max-age=300',
+588 verbose headers   etag: '"9db56b1891311ac4e5f7768bc8155c9b"',
+588 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:34:24 GMT',
+588 verbose headers   vary: 'Accept-Encoding',
+588 verbose headers   server: 'cloudflare' }
+589 silly get cb [ 304,
+589 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+589 silly get     connection: 'keep-alive',
+589 silly get     'cf-ray': '83047a632cab0253-CDG',
+589 silly get     'cf-cache-status': 'HIT',
+589 silly get     age: '193',
+589 silly get     'cache-control': 'public, max-age=300',
+589 silly get     etag: '"9db56b1891311ac4e5f7768bc8155c9b"',
+589 silly get     'last-modified': 'Wed, 29 Nov 2023 17:34:24 GMT',
+589 silly get     vary: 'Accept-Encoding',
+589 silly get     server: 'cloudflare' } ]
+590 verbose etag https://registry.npmjs.org/@angular%2fservice-worker from cache
+591 verbose get saving @angular/service-worker to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fservice-worker\.cache.json
+592 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+593 http 304 https://registry.npmjs.org/@angular%2fforms
+594 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+594 verbose headers   connection: 'keep-alive',
+594 verbose headers   'cf-ray': '83047a632aea6f0d-CDG',
+594 verbose headers   'cf-cache-status': 'HIT',
+594 verbose headers   age: '158',
+594 verbose headers   'cache-control': 'public, max-age=300',
+594 verbose headers   etag: '"cbfa071b4dc22e41fef65b42acf0f9eb"',
+594 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:33:09 GMT',
+594 verbose headers   vary: 'Accept-Encoding',
+594 verbose headers   server: 'cloudflare' }
+595 silly get cb [ 304,
+595 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+595 silly get     connection: 'keep-alive',
+595 silly get     'cf-ray': '83047a632aea6f0d-CDG',
+595 silly get     'cf-cache-status': 'HIT',
+595 silly get     age: '158',
+595 silly get     'cache-control': 'public, max-age=300',
+595 silly get     etag: '"cbfa071b4dc22e41fef65b42acf0f9eb"',
+595 silly get     'last-modified': 'Wed, 29 Nov 2023 17:33:09 GMT',
+595 silly get     vary: 'Accept-Encoding',
+595 silly get     server: 'cloudflare' } ]
+596 verbose etag https://registry.npmjs.org/@angular%2fforms from cache
+597 verbose get saving @angular/forms to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fforms\.cache.json
+598 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+599 http 304 https://registry.npmjs.org/@angular%2fcommon
+600 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+600 verbose headers   connection: 'keep-alive',
+600 verbose headers   'cf-ray': '83047a6328b62a7f-CDG',
+600 verbose headers   'cf-cache-status': 'HIT',
+600 verbose headers   age: '234',
+600 verbose headers   'cache-control': 'public, max-age=300',
+600 verbose headers   etag: '"9bf0e219443386bb9a2d10bc0f314533"',
+600 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:32:09 GMT',
+600 verbose headers   vary: 'Accept-Encoding',
+600 verbose headers   server: 'cloudflare' }
+601 silly get cb [ 304,
+601 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+601 silly get     connection: 'keep-alive',
+601 silly get     'cf-ray': '83047a6328b62a7f-CDG',
+601 silly get     'cf-cache-status': 'HIT',
+601 silly get     age: '234',
+601 silly get     'cache-control': 'public, max-age=300',
+601 silly get     etag: '"9bf0e219443386bb9a2d10bc0f314533"',
+601 silly get     'last-modified': 'Wed, 29 Nov 2023 17:32:09 GMT',
+601 silly get     vary: 'Accept-Encoding',
+601 silly get     server: 'cloudflare' } ]
+602 verbose etag https://registry.npmjs.org/@angular%2fcommon from cache
+603 verbose get saving @angular/common to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fcommon\.cache.json
+604 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+605 http 304 https://registry.npmjs.org/@angular%2flocalize
+606 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+606 verbose headers   connection: 'keep-alive',
+606 verbose headers   'cf-ray': '83047a632ff30151-CDG',
+606 verbose headers   'cf-cache-status': 'HIT',
+606 verbose headers   age: '74',
+606 verbose headers   'cache-control': 'public, max-age=300',
+606 verbose headers   etag: '"cd25cce08c7eeb43a2a9bac8c974c906"',
+606 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:33:42 GMT',
+606 verbose headers   vary: 'Accept-Encoding',
+606 verbose headers   server: 'cloudflare' }
+607 silly get cb [ 304,
+607 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+607 silly get     connection: 'keep-alive',
+607 silly get     'cf-ray': '83047a632ff30151-CDG',
+607 silly get     'cf-cache-status': 'HIT',
+607 silly get     age: '74',
+607 silly get     'cache-control': 'public, max-age=300',
+607 silly get     etag: '"cd25cce08c7eeb43a2a9bac8c974c906"',
+607 silly get     'last-modified': 'Wed, 29 Nov 2023 17:33:42 GMT',
+607 silly get     vary: 'Accept-Encoding',
+607 silly get     server: 'cloudflare' } ]
+608 verbose etag https://registry.npmjs.org/@angular%2flocalize from cache
+609 verbose get saving @angular/localize to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252flocalize\.cache.json
+610 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+611 http 304 https://registry.npmjs.org/@angular-devkit%2fbuild-angular
+612 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+612 verbose headers   connection: 'keep-alive',
+612 verbose headers   'cf-ray': '83047a632be06f02-CDG',
+612 verbose headers   'cf-cache-status': 'HIT',
+612 verbose headers   age: '182',
+612 verbose headers   'cache-control': 'public, max-age=300',
+612 verbose headers   etag: '"ebdab4b40defe72d956497f92c08d8dd"',
+612 verbose headers   'last-modified': 'Wed, 29 Nov 2023 23:37:18 GMT',
+612 verbose headers   vary: 'Accept-Encoding',
+612 verbose headers   server: 'cloudflare' }
+613 silly get cb [ 304,
+613 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+613 silly get     connection: 'keep-alive',
+613 silly get     'cf-ray': '83047a632be06f02-CDG',
+613 silly get     'cf-cache-status': 'HIT',
+613 silly get     age: '182',
+613 silly get     'cache-control': 'public, max-age=300',
+613 silly get     etag: '"ebdab4b40defe72d956497f92c08d8dd"',
+613 silly get     'last-modified': 'Wed, 29 Nov 2023 23:37:18 GMT',
+613 silly get     vary: 'Accept-Encoding',
+613 silly get     server: 'cloudflare' } ]
+614 verbose etag https://registry.npmjs.org/@angular-devkit%2fbuild-angular from cache
+615 verbose get saving @angular-devkit/build-angular to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular-devkit_252fbuild-angular\.cache.json
+616 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+617 http 200 https://registry.npmjs.org/karma-coverage-istanbul-reporter
+618 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+618 verbose headers   'content-type': 'application/json',
+618 verbose headers   'transfer-encoding': 'chunked',
+618 verbose headers   connection: 'keep-alive',
+618 verbose headers   'cf-ray': '83047a600cddd69e-CDG',
+618 verbose headers   'cf-cache-status': 'HIT',
+618 verbose headers   'access-control-allow-origin': '*',
+618 verbose headers   age: '275',
+618 verbose headers   'cache-control': 'public, max-age=300',
+618 verbose headers   etag: 'W/"2f600a121028dd559ab1bc6eb57560db"',
+618 verbose headers   'last-modified': 'Sun, 19 Jun 2022 07:56:05 GMT',
+618 verbose headers   vary: 'accept-encoding, accept',
+618 verbose headers   server: 'cloudflare',
+618 verbose headers   'content-encoding': 'gzip' }
+619 silly get cb [ 200,
+619 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+619 silly get     'content-type': 'application/json',
+619 silly get     'transfer-encoding': 'chunked',
+619 silly get     connection: 'keep-alive',
+619 silly get     'cf-ray': '83047a600cddd69e-CDG',
+619 silly get     'cf-cache-status': 'HIT',
+619 silly get     'access-control-allow-origin': '*',
+619 silly get     age: '275',
+619 silly get     'cache-control': 'public, max-age=300',
+619 silly get     etag: 'W/"2f600a121028dd559ab1bc6eb57560db"',
+619 silly get     'last-modified': 'Sun, 19 Jun 2022 07:56:05 GMT',
+619 silly get     vary: 'accept-encoding, accept',
+619 silly get     server: 'cloudflare',
+619 silly get     'content-encoding': 'gzip' } ]
+620 verbose get saving karma-coverage-istanbul-reporter to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\karma-coverage-istanbul-reporter\.cache.json
+621 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+622 http 304 https://registry.npmjs.org/rxjs
+623 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+623 verbose headers   connection: 'keep-alive',
+623 verbose headers   'cf-ray': '83047a617ea50194-CDG',
+623 verbose headers   'cf-cache-status': 'REVALIDATED',
+623 verbose headers   'cache-control': 'public, max-age=300',
+623 verbose headers   etag: '"c285d3933d1aff6eb2284653cdbdb203"',
+623 verbose headers   'last-modified': 'Sat, 19 Aug 2023 17:05:55 GMT',
+623 verbose headers   vary: 'Accept-Encoding',
+623 verbose headers   server: 'cloudflare' }
+624 silly get cb [ 304,
+624 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+624 silly get     connection: 'keep-alive',
+624 silly get     'cf-ray': '83047a617ea50194-CDG',
+624 silly get     'cf-cache-status': 'REVALIDATED',
+624 silly get     'cache-control': 'public, max-age=300',
+624 silly get     etag: '"c285d3933d1aff6eb2284653cdbdb203"',
+624 silly get     'last-modified': 'Sat, 19 Aug 2023 17:05:55 GMT',
+624 silly get     vary: 'Accept-Encoding',
+624 silly get     server: 'cloudflare' } ]
+625 verbose etag https://registry.npmjs.org/rxjs from cache
+626 verbose get saving rxjs to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\rxjs\.cache.json
+627 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+628 http 304 https://registry.npmjs.org/primeng
+629 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+629 verbose headers   connection: 'keep-alive',
+629 verbose headers   'cf-ray': '83047a65ee496f04-CDG',
+629 verbose headers   'cf-cache-status': 'HIT',
+629 verbose headers   age: '133',
+629 verbose headers   'cache-control': 'public, max-age=300',
+629 verbose headers   etag: '"029bf4667c453d4e27b1db3f41757f06"',
+629 verbose headers   'last-modified': 'Wed, 29 Nov 2023 16:00:32 GMT',
+629 verbose headers   vary: 'Accept-Encoding',
+629 verbose headers   server: 'cloudflare' }
+630 silly get cb [ 304,
+630 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+630 silly get     connection: 'keep-alive',
+630 silly get     'cf-ray': '83047a65ee496f04-CDG',
+630 silly get     'cf-cache-status': 'HIT',
+630 silly get     age: '133',
+630 silly get     'cache-control': 'public, max-age=300',
+630 silly get     etag: '"029bf4667c453d4e27b1db3f41757f06"',
+630 silly get     'last-modified': 'Wed, 29 Nov 2023 16:00:32 GMT',
+630 silly get     vary: 'Accept-Encoding',
+630 silly get     server: 'cloudflare' } ]
+631 verbose etag https://registry.npmjs.org/primeng from cache
+632 verbose get saving primeng to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\primeng\.cache.json
+633 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+634 http 200 https://registry.npmjs.org/jasmine-core
+635 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+635 verbose headers   'content-type': 'application/json',
+635 verbose headers   'transfer-encoding': 'chunked',
+635 verbose headers   connection: 'keep-alive',
+635 verbose headers   'cf-ray': '83047a5fe9edd5a4-CDG',
+635 verbose headers   'cf-cache-status': 'HIT',
+635 verbose headers   'access-control-allow-origin': '*',
+635 verbose headers   age: '299',
+635 verbose headers   'cache-control': 'public, max-age=300',
+635 verbose headers   etag: 'W/"257a863f52da2dedaf23a1ed1d0be328"',
+635 verbose headers   'last-modified': 'Fri, 25 Aug 2023 02:06:42 GMT',
+635 verbose headers   vary: 'accept-encoding, accept',
+635 verbose headers   server: 'cloudflare',
+635 verbose headers   'content-encoding': 'gzip' }
+636 silly get cb [ 200,
+636 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+636 silly get     'content-type': 'application/json',
+636 silly get     'transfer-encoding': 'chunked',
+636 silly get     connection: 'keep-alive',
+636 silly get     'cf-ray': '83047a5fe9edd5a4-CDG',
+636 silly get     'cf-cache-status': 'HIT',
+636 silly get     'access-control-allow-origin': '*',
+636 silly get     age: '299',
+636 silly get     'cache-control': 'public, max-age=300',
+636 silly get     etag: 'W/"257a863f52da2dedaf23a1ed1d0be328"',
+636 silly get     'last-modified': 'Fri, 25 Aug 2023 02:06:42 GMT',
+636 silly get     vary: 'accept-encoding, accept',
+636 silly get     server: 'cloudflare',
+636 silly get     'content-encoding': 'gzip' } ]
+637 verbose get saving jasmine-core to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\jasmine-core\.cache.json
+638 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+639 http 304 https://registry.npmjs.org/tslib
+640 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+640 verbose headers   connection: 'keep-alive',
+640 verbose headers   'cf-ray': '83047a628881d40c-CDG',
+640 verbose headers   'cf-cache-status': 'REVALIDATED',
+640 verbose headers   'cache-control': 'public, max-age=300',
+640 verbose headers   etag: '"2600306873485a1d2ff0ae3640e5ee03"',
+640 verbose headers   'last-modified': 'Fri, 18 Aug 2023 17:42:00 GMT',
+640 verbose headers   vary: 'Accept-Encoding',
+640 verbose headers   server: 'cloudflare' }
+641 silly get cb [ 304,
+641 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+641 silly get     connection: 'keep-alive',
+641 silly get     'cf-ray': '83047a628881d40c-CDG',
+641 silly get     'cf-cache-status': 'REVALIDATED',
+641 silly get     'cache-control': 'public, max-age=300',
+641 silly get     etag: '"2600306873485a1d2ff0ae3640e5ee03"',
+641 silly get     'last-modified': 'Fri, 18 Aug 2023 17:42:00 GMT',
+641 silly get     vary: 'Accept-Encoding',
+641 silly get     server: 'cloudflare' } ]
+642 verbose etag https://registry.npmjs.org/tslib from cache
+643 verbose get saving tslib to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\tslib\.cache.json
+644 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+645 http 304 https://registry.npmjs.org/primeicons
+646 verbose headers { date: 'Mon, 04 Dec 2023 13:43:24 GMT',
+646 verbose headers   connection: 'keep-alive',
+646 verbose headers   'cf-ray': '83047a66ec712a74-CDG',
+646 verbose headers   'cf-cache-status': 'HIT',
+646 verbose headers   age: '20',
+646 verbose headers   'cache-control': 'public, max-age=300',
+646 verbose headers   etag: '"a7462ae7240ce4d31c4e79b07edbd520"',
+646 verbose headers   'last-modified': 'Tue, 20 Sep 2022 19:31:43 GMT',
+646 verbose headers   vary: 'Accept-Encoding',
+646 verbose headers   server: 'cloudflare' }
+647 silly get cb [ 304,
+647 silly get   { date: 'Mon, 04 Dec 2023 13:43:24 GMT',
+647 silly get     connection: 'keep-alive',
+647 silly get     'cf-ray': '83047a66ec712a74-CDG',
+647 silly get     'cf-cache-status': 'HIT',
+647 silly get     age: '20',
+647 silly get     'cache-control': 'public, max-age=300',
+647 silly get     etag: '"a7462ae7240ce4d31c4e79b07edbd520"',
+647 silly get     'last-modified': 'Tue, 20 Sep 2022 19:31:43 GMT',
+647 silly get     vary: 'Accept-Encoding',
+647 silly get     server: 'cloudflare' } ]
+648 verbose etag https://registry.npmjs.org/primeicons from cache
+649 verbose get saving primeicons to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\primeicons\.cache.json
+650 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+651 http 200 https://registry.npmjs.org/@types%2fjasminewd2
+652 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+652 verbose headers   'content-type': 'application/json',
+652 verbose headers   'transfer-encoding': 'chunked',
+652 verbose headers   connection: 'keep-alive',
+652 verbose headers   'cf-ray': '83047a6009222a41-CDG',
+652 verbose headers   'cf-cache-status': 'REVALIDATED',
+652 verbose headers   'access-control-allow-origin': '*',
+652 verbose headers   'cache-control': 'public, max-age=300',
+652 verbose headers   etag: 'W/"2bf57a3ad75fb7557af7015bd9224ae9"',
+652 verbose headers   'last-modified': 'Tue, 07 Nov 2023 08:15:48 GMT',
+652 verbose headers   vary: 'accept-encoding, accept',
+652 verbose headers   server: 'cloudflare',
+652 verbose headers   'content-encoding': 'gzip' }
+653 silly get cb [ 200,
+653 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+653 silly get     'content-type': 'application/json',
+653 silly get     'transfer-encoding': 'chunked',
+653 silly get     connection: 'keep-alive',
+653 silly get     'cf-ray': '83047a6009222a41-CDG',
+653 silly get     'cf-cache-status': 'REVALIDATED',
+653 silly get     'access-control-allow-origin': '*',
+653 silly get     'cache-control': 'public, max-age=300',
+653 silly get     etag: 'W/"2bf57a3ad75fb7557af7015bd9224ae9"',
+653 silly get     'last-modified': 'Tue, 07 Nov 2023 08:15:48 GMT',
+653 silly get     vary: 'accept-encoding, accept',
+653 silly get     server: 'cloudflare',
+653 silly get     'content-encoding': 'gzip' } ]
+654 verbose get saving @types/jasminewd2 to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40types_252fjasminewd2\.cache.json
+655 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+656 http 200 https://registry.npmjs.org/jasmine-spec-reporter
+657 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+657 verbose headers   'content-type': 'application/json',
+657 verbose headers   'transfer-encoding': 'chunked',
+657 verbose headers   connection: 'keep-alive',
+657 verbose headers   'cf-ray': '83047a600a75702b-CDG',
+657 verbose headers   'cf-cache-status': 'HIT',
+657 verbose headers   'access-control-allow-origin': '*',
+657 verbose headers   age: '104',
+657 verbose headers   'cache-control': 'public, max-age=300',
+657 verbose headers   etag: 'W/"6b9aa56eef40fac8a7d5af61d220e51b"',
+657 verbose headers   'last-modified': 'Sun, 19 Jun 2022 03:48:12 GMT',
+657 verbose headers   vary: 'accept-encoding, accept',
+657 verbose headers   server: 'cloudflare',
+657 verbose headers   'content-encoding': 'gzip' }
+658 silly get cb [ 200,
+658 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+658 silly get     'content-type': 'application/json',
+658 silly get     'transfer-encoding': 'chunked',
+658 silly get     connection: 'keep-alive',
+658 silly get     'cf-ray': '83047a600a75702b-CDG',
+658 silly get     'cf-cache-status': 'HIT',
+658 silly get     'access-control-allow-origin': '*',
+658 silly get     age: '104',
+658 silly get     'cache-control': 'public, max-age=300',
+658 silly get     etag: 'W/"6b9aa56eef40fac8a7d5af61d220e51b"',
+658 silly get     'last-modified': 'Sun, 19 Jun 2022 03:48:12 GMT',
+658 silly get     vary: 'accept-encoding, accept',
+658 silly get     server: 'cloudflare',
+658 silly get     'content-encoding': 'gzip' } ]
+659 verbose get saving jasmine-spec-reporter to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\jasmine-spec-reporter\.cache.json
+660 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+661 http 304 https://registry.npmjs.org/@angular%2fanimations
+662 verbose headers { date: 'Mon, 04 Dec 2023 13:43:24 GMT',
+662 verbose headers   connection: 'keep-alive',
+662 verbose headers   'cf-ray': '83047a612ce90224-CDG',
+662 verbose headers   'cf-cache-status': 'REVALIDATED',
+662 verbose headers   'cache-control': 'public, max-age=300',
+662 verbose headers   etag: '"df68cb0cefac954fc1e2cdb27de9978f"',
+662 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:31:57 GMT',
+662 verbose headers   vary: 'Accept-Encoding',
+662 verbose headers   server: 'cloudflare' }
+663 silly get cb [ 304,
+663 silly get   { date: 'Mon, 04 Dec 2023 13:43:24 GMT',
+663 silly get     connection: 'keep-alive',
+663 silly get     'cf-ray': '83047a612ce90224-CDG',
+663 silly get     'cf-cache-status': 'REVALIDATED',
+663 silly get     'cache-control': 'public, max-age=300',
+663 silly get     etag: '"df68cb0cefac954fc1e2cdb27de9978f"',
+663 silly get     'last-modified': 'Wed, 29 Nov 2023 17:31:57 GMT',
+663 silly get     vary: 'Accept-Encoding',
+663 silly get     server: 'cloudflare' } ]
+664 verbose etag https://registry.npmjs.org/@angular%2fanimations from cache
+665 verbose get saving @angular/animations to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252fanimations\.cache.json
+666 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+667 http 200 https://registry.npmjs.org/codelyzer
+668 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+668 verbose headers   'content-type': 'application/json',
+668 verbose headers   'transfer-encoding': 'chunked',
+668 verbose headers   connection: 'keep-alive',
+668 verbose headers   'cf-ray': '83047a5fea036ef0-CDG',
+668 verbose headers   'cf-cache-status': 'HIT',
+668 verbose headers   'access-control-allow-origin': '*',
+668 verbose headers   age: '236',
+668 verbose headers   'cache-control': 'public, max-age=300',
+668 verbose headers   etag: 'W/"82012da9f55f258261597c88f1ab0852"',
+668 verbose headers   'last-modified': 'Mon, 13 Jun 2022 06:26:14 GMT',
+668 verbose headers   vary: 'accept-encoding, accept',
+668 verbose headers   server: 'cloudflare',
+668 verbose headers   'content-encoding': 'gzip' }
+669 silly get cb [ 200,
+669 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+669 silly get     'content-type': 'application/json',
+669 silly get     'transfer-encoding': 'chunked',
+669 silly get     connection: 'keep-alive',
+669 silly get     'cf-ray': '83047a5fea036ef0-CDG',
+669 silly get     'cf-cache-status': 'HIT',
+669 silly get     'access-control-allow-origin': '*',
+669 silly get     age: '236',
+669 silly get     'cache-control': 'public, max-age=300',
+669 silly get     etag: 'W/"82012da9f55f258261597c88f1ab0852"',
+669 silly get     'last-modified': 'Mon, 13 Jun 2022 06:26:14 GMT',
+669 silly get     vary: 'accept-encoding, accept',
+669 silly get     server: 'cloudflare',
+669 silly get     'content-encoding': 'gzip' } ]
+670 verbose get saving codelyzer to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\codelyzer\.cache.json
+671 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+672 http 200 https://registry.npmjs.org/protractor
+673 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+673 verbose headers   'content-type': 'application/json',
+673 verbose headers   'transfer-encoding': 'chunked',
+673 verbose headers   connection: 'keep-alive',
+673 verbose headers   'cf-ray': '83047a604958d506-CDG',
+673 verbose headers   'cf-cache-status': 'HIT',
+673 verbose headers   'access-control-allow-origin': '*',
+673 verbose headers   age: '103',
+673 verbose headers   'cache-control': 'public, max-age=300',
+673 verbose headers   etag: 'W/"36115156d8ba88c29741931185aa8bd4"',
+673 verbose headers   'last-modified': 'Sun, 12 Feb 2023 07:15:16 GMT',
+673 verbose headers   vary: 'accept-encoding, accept',
+673 verbose headers   server: 'cloudflare',
+673 verbose headers   'content-encoding': 'gzip' }
+674 silly get cb [ 200,
+674 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+674 silly get     'content-type': 'application/json',
+674 silly get     'transfer-encoding': 'chunked',
+674 silly get     connection: 'keep-alive',
+674 silly get     'cf-ray': '83047a604958d506-CDG',
+674 silly get     'cf-cache-status': 'HIT',
+674 silly get     'access-control-allow-origin': '*',
+674 silly get     age: '103',
+674 silly get     'cache-control': 'public, max-age=300',
+674 silly get     etag: 'W/"36115156d8ba88c29741931185aa8bd4"',
+674 silly get     'last-modified': 'Sun, 12 Feb 2023 07:15:16 GMT',
+674 silly get     vary: 'accept-encoding, accept',
+674 silly get     server: 'cloudflare',
+674 silly get     'content-encoding': 'gzip' } ]
+675 verbose get saving protractor to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\protractor\.cache.json
+676 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+677 http 200 https://registry.npmjs.org/karma-jasmine
+678 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+678 verbose headers   'content-type': 'application/json',
+678 verbose headers   'transfer-encoding': 'chunked',
+678 verbose headers   connection: 'keep-alive',
+678 verbose headers   'cf-ray': '83047a60091599b7-CDG',
+678 verbose headers   'cf-cache-status': 'HIT',
+678 verbose headers   'access-control-allow-origin': '*',
+678 verbose headers   age: '25',
+678 verbose headers   'cache-control': 'public, max-age=300',
+678 verbose headers   etag: 'W/"dbeca557b67109ee462ad4d1feb42398"',
+678 verbose headers   'last-modified': 'Sun, 19 Jun 2022 07:59:17 GMT',
+678 verbose headers   vary: 'accept-encoding, accept',
+678 verbose headers   server: 'cloudflare',
+678 verbose headers   'content-encoding': 'gzip' }
+679 silly get cb [ 200,
+679 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+679 silly get     'content-type': 'application/json',
+679 silly get     'transfer-encoding': 'chunked',
+679 silly get     connection: 'keep-alive',
+679 silly get     'cf-ray': '83047a60091599b7-CDG',
+679 silly get     'cf-cache-status': 'HIT',
+679 silly get     'access-control-allow-origin': '*',
+679 silly get     age: '25',
+679 silly get     'cache-control': 'public, max-age=300',
+679 silly get     etag: 'W/"dbeca557b67109ee462ad4d1feb42398"',
+679 silly get     'last-modified': 'Sun, 19 Jun 2022 07:59:17 GMT',
+679 silly get     vary: 'accept-encoding, accept',
+679 silly get     server: 'cloudflare',
+679 silly get     'content-encoding': 'gzip' } ]
+680 verbose get saving karma-jasmine to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\karma-jasmine\.cache.json
+681 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+682 http 200 https://registry.npmjs.org/@types%2fchart.js
+683 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+683 verbose headers   'content-type': 'application/json',
+683 verbose headers   'transfer-encoding': 'chunked',
+683 verbose headers   connection: 'keep-alive',
+683 verbose headers   'cf-ray': '83047a5fe85a2a40-CDG',
+683 verbose headers   'cf-cache-status': 'HIT',
+683 verbose headers   'access-control-allow-origin': '*',
+683 verbose headers   age: '14',
+683 verbose headers   'cache-control': 'public, max-age=300',
+683 verbose headers   etag: 'W/"5293ae336498f8809b7cb755f1d4fbdb"',
+683 verbose headers   'last-modified': 'Mon, 20 Nov 2023 23:50:17 GMT',
+683 verbose headers   vary: 'accept-encoding, accept',
+683 verbose headers   server: 'cloudflare',
+683 verbose headers   'content-encoding': 'gzip' }
+684 silly get cb [ 200,
+684 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+684 silly get     'content-type': 'application/json',
+684 silly get     'transfer-encoding': 'chunked',
+684 silly get     connection: 'keep-alive',
+684 silly get     'cf-ray': '83047a5fe85a2a40-CDG',
+684 silly get     'cf-cache-status': 'HIT',
+684 silly get     'access-control-allow-origin': '*',
+684 silly get     age: '14',
+684 silly get     'cache-control': 'public, max-age=300',
+684 silly get     etag: 'W/"5293ae336498f8809b7cb755f1d4fbdb"',
+684 silly get     'last-modified': 'Mon, 20 Nov 2023 23:50:17 GMT',
+684 silly get     vary: 'accept-encoding, accept',
+684 silly get     server: 'cloudflare',
+684 silly get     'content-encoding': 'gzip' } ]
+685 verbose get saving @types/chart.js to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40types_252fchart.js\.cache.json
+686 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+687 http 200 https://registry.npmjs.org/@types%2fjasmine
+688 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+688 verbose headers   'content-type': 'application/json',
+688 verbose headers   'transfer-encoding': 'chunked',
+688 verbose headers   connection: 'keep-alive',
+688 verbose headers   'cf-ray': '83047a5fedae3d13-CDG',
+688 verbose headers   'cf-cache-status': 'HIT',
+688 verbose headers   'access-control-allow-origin': '*',
+688 verbose headers   age: '193',
+688 verbose headers   'cache-control': 'public, max-age=300',
+688 verbose headers   etag: 'W/"1ed2f41d371627584038c534ea4acec8"',
+688 verbose headers   'last-modified': 'Wed, 22 Nov 2023 00:56:47 GMT',
+688 verbose headers   vary: 'accept-encoding, accept',
+688 verbose headers   server: 'cloudflare',
+688 verbose headers   'content-encoding': 'gzip' }
+689 silly get cb [ 200,
+689 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+689 silly get     'content-type': 'application/json',
+689 silly get     'transfer-encoding': 'chunked',
+689 silly get     connection: 'keep-alive',
+689 silly get     'cf-ray': '83047a5fedae3d13-CDG',
+689 silly get     'cf-cache-status': 'HIT',
+689 silly get     'access-control-allow-origin': '*',
+689 silly get     age: '193',
+689 silly get     'cache-control': 'public, max-age=300',
+689 silly get     etag: 'W/"1ed2f41d371627584038c534ea4acec8"',
+689 silly get     'last-modified': 'Wed, 22 Nov 2023 00:56:47 GMT',
+689 silly get     vary: 'accept-encoding, accept',
+689 silly get     server: 'cloudflare',
+689 silly get     'content-encoding': 'gzip' } ]
+690 verbose get saving @types/jasmine to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40types_252fjasmine\.cache.json
+691 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+692 http 200 https://registry.npmjs.org/ts-node
+693 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+693 verbose headers   'content-type': 'application/json',
+693 verbose headers   'transfer-encoding': 'chunked',
+693 verbose headers   connection: 'keep-alive',
+693 verbose headers   'cf-ray': '83047a610d382a5e-CDG',
+693 verbose headers   'cf-cache-status': 'HIT',
+693 verbose headers   'access-control-allow-origin': '*',
+693 verbose headers   age: '12',
+693 verbose headers   'cache-control': 'public, max-age=300',
+693 verbose headers   etag: 'W/"0ca7bdd7acc2353348657735eabf2f05"',
+693 verbose headers   'last-modified': 'Tue, 17 Oct 2023 18:44:30 GMT',
+693 verbose headers   vary: 'accept-encoding, accept',
+693 verbose headers   server: 'cloudflare',
+693 verbose headers   'content-encoding': 'gzip' }
+694 silly get cb [ 200,
+694 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+694 silly get     'content-type': 'application/json',
+694 silly get     'transfer-encoding': 'chunked',
+694 silly get     connection: 'keep-alive',
+694 silly get     'cf-ray': '83047a610d382a5e-CDG',
+694 silly get     'cf-cache-status': 'HIT',
+694 silly get     'access-control-allow-origin': '*',
+694 silly get     age: '12',
+694 silly get     'cache-control': 'public, max-age=300',
+694 silly get     etag: 'W/"0ca7bdd7acc2353348657735eabf2f05"',
+694 silly get     'last-modified': 'Tue, 17 Oct 2023 18:44:30 GMT',
+694 silly get     vary: 'accept-encoding, accept',
+694 silly get     server: 'cloudflare',
+694 silly get     'content-encoding': 'gzip' } ]
+695 verbose get saving ts-node to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\ts-node\.cache.json
+696 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+697 http 200 https://registry.npmjs.org/tslint
+698 verbose headers { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+698 verbose headers   'content-type': 'application/json',
+698 verbose headers   'transfer-encoding': 'chunked',
+698 verbose headers   connection: 'keep-alive',
+698 verbose headers   'cf-ray': '83047a612a2ad506-CDG',
+698 verbose headers   'cf-cache-status': 'REVALIDATED',
+698 verbose headers   'access-control-allow-origin': '*',
+698 verbose headers   'cache-control': 'public, max-age=300',
+698 verbose headers   etag: 'W/"d7abf6e7006fd71ee961902c855ac538"',
+698 verbose headers   'last-modified': 'Fri, 09 Jun 2023 21:44:27 GMT',
+698 verbose headers   vary: 'accept-encoding, accept',
+698 verbose headers   server: 'cloudflare',
+698 verbose headers   'content-encoding': 'gzip' }
+699 silly get cb [ 200,
+699 silly get   { date: 'Mon, 04 Dec 2023 13:43:23 GMT',
+699 silly get     'content-type': 'application/json',
+699 silly get     'transfer-encoding': 'chunked',
+699 silly get     connection: 'keep-alive',
+699 silly get     'cf-ray': '83047a612a2ad506-CDG',
+699 silly get     'cf-cache-status': 'REVALIDATED',
+699 silly get     'access-control-allow-origin': '*',
+699 silly get     'cache-control': 'public, max-age=300',
+699 silly get     etag: 'W/"d7abf6e7006fd71ee961902c855ac538"',
+699 silly get     'last-modified': 'Fri, 09 Jun 2023 21:44:27 GMT',
+699 silly get     vary: 'accept-encoding, accept',
+699 silly get     server: 'cloudflare',
+699 silly get     'content-encoding': 'gzip' } ]
+700 verbose get saving tslint to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\tslint\.cache.json
+701 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+702 http 304 https://registry.npmjs.org/@dwtechs%2fctrltab
+703 verbose headers { date: 'Mon, 04 Dec 2023 13:43:24 GMT',
+703 verbose headers   connection: 'keep-alive',
+703 verbose headers   'cf-ray': '83047a61486dd51e-CDG',
+703 verbose headers   'cf-cache-status': 'REVALIDATED',
+703 verbose headers   'cache-control': 'public, max-age=300',
+703 verbose headers   etag: '"e2df5feadb7bb4349b5ac13ad74521ca"',
+703 verbose headers   'last-modified': 'Tue, 05 Apr 2022 06:13:19 GMT',
+703 verbose headers   vary: 'Accept-Encoding',
+703 verbose headers   server: 'cloudflare' }
+704 silly get cb [ 304,
+704 silly get   { date: 'Mon, 04 Dec 2023 13:43:24 GMT',
+704 silly get     connection: 'keep-alive',
+704 silly get     'cf-ray': '83047a61486dd51e-CDG',
+704 silly get     'cf-cache-status': 'REVALIDATED',
+704 silly get     'cache-control': 'public, max-age=300',
+704 silly get     etag: '"e2df5feadb7bb4349b5ac13ad74521ca"',
+704 silly get     'last-modified': 'Tue, 05 Apr 2022 06:13:19 GMT',
+704 silly get     vary: 'Accept-Encoding',
+704 silly get     server: 'cloudflare' } ]
+705 verbose etag https://registry.npmjs.org/@dwtechs%2fctrltab from cache
+706 verbose get saving @dwtechs/ctrltab to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40dwtechs_252fctrltab\.cache.json
+707 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+708 http 200 https://registry.npmjs.org/@angular%2flanguage-service
+709 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+709 verbose headers   'content-type': 'application/json',
+709 verbose headers   'transfer-encoding': 'chunked',
+709 verbose headers   connection: 'keep-alive',
+709 verbose headers   'cf-ray': '83047a5fef14d570-CDG',
+709 verbose headers   'cf-cache-status': 'HIT',
+709 verbose headers   'access-control-allow-origin': '*',
+709 verbose headers   age: '73',
+709 verbose headers   'cache-control': 'public, max-age=300',
+709 verbose headers   etag: 'W/"2ec185824b149d4aa3fcc3824c1a2ec0"',
+709 verbose headers   'last-modified': 'Wed, 29 Nov 2023 17:33:36 GMT',
+709 verbose headers   vary: 'accept-encoding, accept',
+709 verbose headers   server: 'cloudflare',
+709 verbose headers   'content-encoding': 'gzip' }
+710 silly get cb [ 200,
+710 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+710 silly get     'content-type': 'application/json',
+710 silly get     'transfer-encoding': 'chunked',
+710 silly get     connection: 'keep-alive',
+710 silly get     'cf-ray': '83047a5fef14d570-CDG',
+710 silly get     'cf-cache-status': 'HIT',
+710 silly get     'access-control-allow-origin': '*',
+710 silly get     age: '73',
+710 silly get     'cache-control': 'public, max-age=300',
+710 silly get     etag: 'W/"2ec185824b149d4aa3fcc3824c1a2ec0"',
+710 silly get     'last-modified': 'Wed, 29 Nov 2023 17:33:36 GMT',
+710 silly get     vary: 'accept-encoding, accept',
+710 silly get     server: 'cloudflare',
+710 silly get     'content-encoding': 'gzip' } ]
+711 verbose get saving @angular/language-service to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40angular_252flanguage-service\.cache.json
+712 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+713 http 200 https://registry.npmjs.org/karma
+714 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+714 verbose headers   'content-type': 'application/json',
+714 verbose headers   'transfer-encoding': 'chunked',
+714 verbose headers   connection: 'keep-alive',
+714 verbose headers   'cf-ray': '83047a5fe9ba040f-CDG',
+714 verbose headers   'cf-cache-status': 'HIT',
+714 verbose headers   'access-control-allow-origin': '*',
+714 verbose headers   age: '210',
+714 verbose headers   'cache-control': 'public, max-age=300',
+714 verbose headers   etag: 'W/"3042f43f7127282f3e0e7c2176888b97"',
+714 verbose headers   'last-modified': 'Fri, 21 Apr 2023 23:45:04 GMT',
+714 verbose headers   vary: 'accept-encoding, accept',
+714 verbose headers   server: 'cloudflare',
+714 verbose headers   'content-encoding': 'gzip' }
+715 silly get cb [ 200,
+715 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+715 silly get     'content-type': 'application/json',
+715 silly get     'transfer-encoding': 'chunked',
+715 silly get     connection: 'keep-alive',
+715 silly get     'cf-ray': '83047a5fe9ba040f-CDG',
+715 silly get     'cf-cache-status': 'HIT',
+715 silly get     'access-control-allow-origin': '*',
+715 silly get     age: '210',
+715 silly get     'cache-control': 'public, max-age=300',
+715 silly get     etag: 'W/"3042f43f7127282f3e0e7c2176888b97"',
+715 silly get     'last-modified': 'Fri, 21 Apr 2023 23:45:04 GMT',
+715 silly get     vary: 'accept-encoding, accept',
+715 silly get     server: 'cloudflare',
+715 silly get     'content-encoding': 'gzip' } ]
+716 verbose get saving karma to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\karma\.cache.json
+717 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+718 http 304 https://registry.npmjs.org/@dwtechs%2fcsvx
+719 verbose headers { date: 'Mon, 04 Dec 2023 13:43:24 GMT',
+719 verbose headers   connection: 'keep-alive',
+719 verbose headers   'cf-ray': '83047a66effcd3b3-CDG',
+719 verbose headers   'cf-cache-status': 'MISS',
+719 verbose headers   'cache-control': 'public, max-age=300',
+719 verbose headers   etag: '"7afda940d3d2c0367faaece1bdb4f518"',
+719 verbose headers   'last-modified': 'Tue, 10 May 2022 23:19:52 GMT',
+719 verbose headers   vary: 'Accept-Encoding',
+719 verbose headers   server: 'cloudflare' }
+720 silly get cb [ 304,
+720 silly get   { date: 'Mon, 04 Dec 2023 13:43:24 GMT',
+720 silly get     connection: 'keep-alive',
+720 silly get     'cf-ray': '83047a66effcd3b3-CDG',
+720 silly get     'cf-cache-status': 'MISS',
+720 silly get     'cache-control': 'public, max-age=300',
+720 silly get     etag: '"7afda940d3d2c0367faaece1bdb4f518"',
+720 silly get     'last-modified': 'Tue, 10 May 2022 23:19:52 GMT',
+720 silly get     vary: 'Accept-Encoding',
+720 silly get     server: 'cloudflare' } ]
+721 verbose etag https://registry.npmjs.org/@dwtechs%2fcsvx from cache
+722 verbose get saving @dwtechs/csvx to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40dwtechs_252fcsvx\.cache.json
+723 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+724 http 200 https://registry.npmjs.org/@types%2fnode
+725 verbose headers { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+725 verbose headers   'content-type': 'application/json',
+725 verbose headers   'transfer-encoding': 'chunked',
+725 verbose headers   connection: 'keep-alive',
+725 verbose headers   'cf-ray': '83047a5feeff6f5e-CDG',
+725 verbose headers   'cf-cache-status': 'HIT',
+725 verbose headers   'access-control-allow-origin': '*',
+725 verbose headers   age: '281',
+725 verbose headers   'cache-control': 'public, max-age=300',
+725 verbose headers   etag: 'W/"9943353e703fbcef4f787d8ffed99c89"',
+725 verbose headers   'last-modified': 'Sun, 03 Dec 2023 18:08:42 GMT',
+725 verbose headers   vary: 'accept-encoding, accept',
+725 verbose headers   server: 'cloudflare',
+725 verbose headers   'content-encoding': 'gzip' }
+726 silly get cb [ 200,
+726 silly get   { date: 'Mon, 04 Dec 2023 13:43:22 GMT',
+726 silly get     'content-type': 'application/json',
+726 silly get     'transfer-encoding': 'chunked',
+726 silly get     connection: 'keep-alive',
+726 silly get     'cf-ray': '83047a5feeff6f5e-CDG',
+726 silly get     'cf-cache-status': 'HIT',
+726 silly get     'access-control-allow-origin': '*',
+726 silly get     age: '281',
+726 silly get     'cache-control': 'public, max-age=300',
+726 silly get     etag: 'W/"9943353e703fbcef4f787d8ffed99c89"',
+726 silly get     'last-modified': 'Sun, 03 Dec 2023 18:08:42 GMT',
+726 silly get     vary: 'accept-encoding, accept',
+726 silly get     server: 'cloudflare',
+726 silly get     'content-encoding': 'gzip' } ]
+727 verbose get saving @types/node to C:\Users\Kilune\AppData\Roaming\npm-cache\registry.npmjs.org\_40types_252fnode\.cache.json
+728 verbose correctMkdir C:\Users\Kilune\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+729 info outdated updating [ { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular-devkit/build-angular',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.9',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.9',
+729 info outdated     what: '@angular-devkit/build-angular@14.2.9' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/animations',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/animations@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/cdk',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.7',
+729 info outdated     latest: '17.0.2',
+729 info outdated     req: '14.2.7',
+729 info outdated     what: '@angular/cdk@14.2.7' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/cli',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.9',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.9',
+729 info outdated     what: '@angular/cli@14.2.9' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/common',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/common@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/compiler',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/compiler@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/compiler-cli',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/compiler-cli@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/core',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/core@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/forms',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/forms@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/language-service',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/language-service@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/localize',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/localize@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/platform-browser',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/platform-browser@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/platform-browser-dynamic',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/platform-browser-dynamic@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/router',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/router@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@angular/service-worker',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.10',
+729 info outdated     latest: '17.0.5',
+729 info outdated     req: '14.2.10',
+729 info outdated     what: '@angular/service-worker@14.2.10' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@dwtechs/checkhard',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '2.19.1',
+729 info outdated     latest: '2.21.0',
+729 info outdated     req: '2.19.1',
+729 info outdated     what: '@dwtechs/checkhard@2.19.1' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@dwtechs/csvx',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '0.3.1',
+729 info outdated     latest: '0.3.1',
+729 info outdated     req: '0.3.1',
+729 info outdated     what: '@dwtechs/csvx@0.3.1' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@dwtechs/ctrltab',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '3.0.1',
+729 info outdated     latest: '3.0.1',
+729 info outdated     req: '3.0.1',
+729 info outdated     what: '@dwtechs/ctrltab@3.0.1' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@types/chart.js',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '2.9.30',
+729 info outdated     latest: '2.9.41',
+729 info outdated     req: '2.9.30',
+729 info outdated     what: '@types/chart.js@2.9.30' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@types/jasmine',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '3.6.0',
+729 info outdated     latest: '5.1.4',
+729 info outdated     req: '3.6.0',
+729 info outdated     what: '@types/jasmine@3.6.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@types/jasminewd2',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '2.0.8',
+729 info outdated     latest: '2.0.13',
+729 info outdated     req: '2.0.8',
+729 info outdated     what: '@types/jasminewd2@2.0.8' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: '@types/node',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.6.0',
+729 info outdated     latest: '20.10.3',
+729 info outdated     req: '14.6.0',
+729 info outdated     what: '@types/node@14.6.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'codelyzer',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '6.0.0',
+729 info outdated     latest: '6.0.2',
+729 info outdated     req: '6.0.0',
+729 info outdated     what: 'codelyzer@6.0.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'core-js',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '3.26.1',
+729 info outdated     latest: '3.33.3',
+729 info outdated     req: '3.26.1',
+729 info outdated     what: 'core-js@3.26.1' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'file-saver',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '2.0.5',
+729 info outdated     latest: '2.0.5',
+729 info outdated     req: '2.0.5',
+729 info outdated     what: 'file-saver@2.0.5' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'highlight.js',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '10.6.0',
+729 info outdated     latest: '11.9.0',
+729 info outdated     req: '10.6.0',
+729 info outdated     what: 'highlight.js@10.6.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'http-server',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '13.0.2',
+729 info outdated     latest: '14.1.1',
+729 info outdated     req: '13.0.2',
+729 info outdated     what: 'http-server@13.0.2' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'jasmine-core',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '3.6.0',
+729 info outdated     latest: '5.1.1',
+729 info outdated     req: '3.6.0',
+729 info outdated     what: 'jasmine-core@3.6.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'jasmine-spec-reporter',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '5.0.0',
+729 info outdated     latest: '7.0.0',
+729 info outdated     req: '5.0.0',
+729 info outdated     what: 'jasmine-spec-reporter@5.0.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'karma',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '6.3.4',
+729 info outdated     latest: '6.4.2',
+729 info outdated     req: '6.3.4',
+729 info outdated     what: 'karma@6.3.4' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'karma-chrome-launcher',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '3.1.0',
+729 info outdated     latest: '3.2.0',
+729 info outdated     req: '3.1.0',
+729 info outdated     what: 'karma-chrome-launcher@3.1.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'karma-coverage-istanbul-reporter',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '3.0.2',
+729 info outdated     latest: '3.0.3',
+729 info outdated     req: '3.0.2',
+729 info outdated     what: 'karma-coverage-istanbul-reporter@3.0.2' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'karma-jasmine',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '4.0.0',
+729 info outdated     latest: '5.1.0',
+729 info outdated     req: '4.0.0',
+729 info outdated     what: 'karma-jasmine@4.0.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'karma-jasmine-html-reporter',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '1.5.0',
+729 info outdated     latest: '2.1.0',
+729 info outdated     req: '1.5.0',
+729 info outdated     what: 'karma-jasmine-html-reporter@1.5.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'primeicons',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '6.0.1',
+729 info outdated     latest: '6.0.1',
+729 info outdated     req: '6.0.1',
+729 info outdated     what: 'primeicons@6.0.1' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'primeng',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '14.2.1',
+729 info outdated     latest: '17.0.0-rc.1',
+729 info outdated     req: '14.2.1',
+729 info outdated     what: 'primeng@14.2.1' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'protractor',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '7.0.0',
+729 info outdated     latest: '7.0.0',
+729 info outdated     req: '7.0.0',
+729 info outdated     what: 'protractor@7.0.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'rxjs',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '7.5.7',
+729 info outdated     latest: '7.8.1',
+729 info outdated     req: '7.5.7',
+729 info outdated     what: 'rxjs@7.5.7' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'ts-node',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '7.0.0',
+729 info outdated     latest: '10.9.1',
+729 info outdated     req: '7.0.0',
+729 info outdated     what: 'ts-node@7.0.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'tslib',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '2.0.3',
+729 info outdated     latest: '2.6.2',
+729 info outdated     req: '2.0.3',
+729 info outdated     what: 'tslib@2.0.3' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'tslint',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '6.1.0',
+729 info outdated     latest: '6.1.3',
+729 info outdated     req: '6.1.0',
+729 info outdated     what: 'tslint@6.1.0' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'typescript',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '4.7.4',
+729 info outdated     latest: '5.3.2',
+729 info outdated     req: '4.7.4',
+729 info outdated     what: 'typescript@4.7.4' },
+729 info outdated   { dep:
+729 info outdated      { package: [Object],
+729 info outdated        path: 'C:\\Users\\Kilune\\Desktop\\test_technique\\alten-shop-back-products\\alten-shop-back-products\\front',
+729 info outdated        parent: [Object],
+729 info outdated        isMissing: true },
+729 info outdated     depname: 'zone.js',
+729 info outdated     current: undefined,
+729 info outdated     wanted: '0.11.4',
+729 info outdated     latest: '0.14.2',
+729 info outdated     req: '0.11.4',
+729 info outdated     what: 'zone.js@0.11.4' } ]
+730 silly loadCurrentTree Starting
+731 silly install loadCurrentTree
+732 silly install readLocalPackageData
+733 silly fetchPackageMetaData @angular-devkit/build-angular@14.2.9
+734 silly fetchPackageMetaData @angular/animations@14.2.10
+735 silly fetchPackageMetaData @angular/cdk@14.2.7
+736 silly fetchPackageMetaData @angular/cli@14.2.9
+737 silly fetchPackageMetaData @angular/common@14.2.10
+738 silly fetchPackageMetaData @angular/compiler@14.2.10
+739 silly fetchPackageMetaData @angular/compiler-cli@14.2.10
+740 silly fetchPackageMetaData @angular/core@14.2.10
+741 silly fetchPackageMetaData @angular/forms@14.2.10
+742 silly fetchPackageMetaData @angular/language-service@14.2.10
+743 silly fetchPackageMetaData @angular/localize@14.2.10
+744 silly fetchPackageMetaData @angular/platform-browser@14.2.10
+745 silly fetchPackageMetaData @angular/platform-browser-dynamic@14.2.10
+746 silly fetchPackageMetaData @angular/router@14.2.10
+747 silly fetchPackageMetaData @angular/service-worker@14.2.10
+748 silly fetchPackageMetaData @dwtechs/checkhard@2.19.1
+749 silly fetchPackageMetaData @dwtechs/csvx@0.3.1
+750 silly fetchPackageMetaData @dwtechs/ctrltab@3.0.1
+751 silly fetchPackageMetaData @types/chart.js@2.9.30
+752 silly fetchPackageMetaData @types/jasmine@3.6.0
+753 silly fetchPackageMetaData @types/jasminewd2@2.0.8
+754 silly fetchPackageMetaData @types/node@14.6.0
+755 silly fetchPackageMetaData codelyzer@6.0.0
+756 silly fetchPackageMetaData core-js@3.26.1
+757 silly fetchPackageMetaData file-saver@2.0.5
+758 silly fetchPackageMetaData highlight.js@10.6.0
+759 silly fetchPackageMetaData http-server@13.0.2
+760 silly fetchPackageMetaData jasmine-core@3.6.0
+761 silly fetchPackageMetaData jasmine-spec-reporter@5.0.0
+762 silly fetchPackageMetaData karma@6.3.4
+763 silly fetchPackageMetaData karma-chrome-launcher@3.1.0
+764 silly fetchPackageMetaData karma-coverage-istanbul-reporter@3.0.2
+765 silly fetchPackageMetaData karma-jasmine@4.0.0
+766 silly fetchPackageMetaData karma-jasmine-html-reporter@1.5.0
+767 silly fetchPackageMetaData primeicons@6.0.1
+768 silly fetchPackageMetaData primeng@14.2.1
+769 silly fetchPackageMetaData protractor@7.0.0
+770 silly fetchPackageMetaData rxjs@7.5.7
+771 silly fetchPackageMetaData ts-node@7.0.0
+772 silly fetchPackageMetaData tslib@2.0.3
+773 silly fetchPackageMetaData tslint@6.1.0
+774 silly fetchPackageMetaData typescript@4.7.4
+775 silly fetchPackageMetaData zone.js@0.11.4
+776 silly fetchNamedPackageData @angular-devkit/build-angular
+777 silly mapToRegistry name @angular-devkit/build-angular
+778 silly mapToRegistry scope (from package name) @angular-devkit
+779 verbose mapToRegistry no registry URL found in name for scope @angular-devkit
+780 silly mapToRegistry using default registry
+781 silly mapToRegistry registry https://registry.npmjs.org/
+782 silly mapToRegistry data Result {
+782 silly mapToRegistry   raw: '@angular-devkit/build-angular',
+782 silly mapToRegistry   scope: '@angular-devkit',
+782 silly mapToRegistry   name: '@angular-devkit/build-angular',
+782 silly mapToRegistry   rawSpec: '',
+782 silly mapToRegistry   spec: 'latest',
+782 silly mapToRegistry   type: 'tag' }
+783 silly mapToRegistry uri https://registry.npmjs.org/@angular-devkit%2fbuild-angular
+784 silly fetchNamedPackageData @angular/animations
+785 silly mapToRegistry name @angular/animations
+786 silly mapToRegistry scope (from package name) @angular
+787 verbose mapToRegistry no registry URL found in name for scope @angular
+788 silly mapToRegistry using default registry
+789 silly mapToRegistry registry https://registry.npmjs.org/
+790 silly mapToRegistry data Result {
+790 silly mapToRegistry   raw: '@angular/animations',
+790 silly mapToRegistry   scope: '@angular',
+790 silly mapToRegistry   name: '@angular/animations',
+790 silly mapToRegistry   rawSpec: '',
+790 silly mapToRegistry   spec: 'latest',
+790 silly mapToRegistry   type: 'tag' }
+791 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fanimations
+792 silly fetchNamedPackageData @angular/cdk
+793 silly mapToRegistry name @angular/cdk
+794 silly mapToRegistry scope (from package name) @angular
+795 verbose mapToRegistry no registry URL found in name for scope @angular
+796 silly mapToRegistry using default registry
+797 silly mapToRegistry registry https://registry.npmjs.org/
+798 silly mapToRegistry data Result {
+798 silly mapToRegistry   raw: '@angular/cdk',
+798 silly mapToRegistry   scope: '@angular',
+798 silly mapToRegistry   name: '@angular/cdk',
+798 silly mapToRegistry   rawSpec: '',
+798 silly mapToRegistry   spec: 'latest',
+798 silly mapToRegistry   type: 'tag' }
+799 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcdk
+800 silly fetchNamedPackageData @angular/cli
+801 silly mapToRegistry name @angular/cli
+802 silly mapToRegistry scope (from package name) @angular
+803 verbose mapToRegistry no registry URL found in name for scope @angular
+804 silly mapToRegistry using default registry
+805 silly mapToRegistry registry https://registry.npmjs.org/
+806 silly mapToRegistry data Result {
+806 silly mapToRegistry   raw: '@angular/cli',
+806 silly mapToRegistry   scope: '@angular',
+806 silly mapToRegistry   name: '@angular/cli',
+806 silly mapToRegistry   rawSpec: '',
+806 silly mapToRegistry   spec: 'latest',
+806 silly mapToRegistry   type: 'tag' }
+807 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcli
+808 silly fetchNamedPackageData @angular/common
+809 silly mapToRegistry name @angular/common
+810 silly mapToRegistry scope (from package name) @angular
+811 verbose mapToRegistry no registry URL found in name for scope @angular
+812 silly mapToRegistry using default registry
+813 silly mapToRegistry registry https://registry.npmjs.org/
+814 silly mapToRegistry data Result {
+814 silly mapToRegistry   raw: '@angular/common',
+814 silly mapToRegistry   scope: '@angular',
+814 silly mapToRegistry   name: '@angular/common',
+814 silly mapToRegistry   rawSpec: '',
+814 silly mapToRegistry   spec: 'latest',
+814 silly mapToRegistry   type: 'tag' }
+815 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcommon
+816 silly fetchNamedPackageData @angular/compiler
+817 silly mapToRegistry name @angular/compiler
+818 silly mapToRegistry scope (from package name) @angular
+819 verbose mapToRegistry no registry URL found in name for scope @angular
+820 silly mapToRegistry using default registry
+821 silly mapToRegistry registry https://registry.npmjs.org/
+822 silly mapToRegistry data Result {
+822 silly mapToRegistry   raw: '@angular/compiler',
+822 silly mapToRegistry   scope: '@angular',
+822 silly mapToRegistry   name: '@angular/compiler',
+822 silly mapToRegistry   rawSpec: '',
+822 silly mapToRegistry   spec: 'latest',
+822 silly mapToRegistry   type: 'tag' }
+823 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcompiler
+824 silly fetchNamedPackageData @angular/compiler-cli
+825 silly mapToRegistry name @angular/compiler-cli
+826 silly mapToRegistry scope (from package name) @angular
+827 verbose mapToRegistry no registry URL found in name for scope @angular
+828 silly mapToRegistry using default registry
+829 silly mapToRegistry registry https://registry.npmjs.org/
+830 silly mapToRegistry data Result {
+830 silly mapToRegistry   raw: '@angular/compiler-cli',
+830 silly mapToRegistry   scope: '@angular',
+830 silly mapToRegistry   name: '@angular/compiler-cli',
+830 silly mapToRegistry   rawSpec: '',
+830 silly mapToRegistry   spec: 'latest',
+830 silly mapToRegistry   type: 'tag' }
+831 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcompiler-cli
+832 silly fetchNamedPackageData @angular/core
+833 silly mapToRegistry name @angular/core
+834 silly mapToRegistry scope (from package name) @angular
+835 verbose mapToRegistry no registry URL found in name for scope @angular
+836 silly mapToRegistry using default registry
+837 silly mapToRegistry registry https://registry.npmjs.org/
+838 silly mapToRegistry data Result {
+838 silly mapToRegistry   raw: '@angular/core',
+838 silly mapToRegistry   scope: '@angular',
+838 silly mapToRegistry   name: '@angular/core',
+838 silly mapToRegistry   rawSpec: '',
+838 silly mapToRegistry   spec: 'latest',
+838 silly mapToRegistry   type: 'tag' }
+839 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fcore
+840 silly fetchNamedPackageData @angular/forms
+841 silly mapToRegistry name @angular/forms
+842 silly mapToRegistry scope (from package name) @angular
+843 verbose mapToRegistry no registry URL found in name for scope @angular
+844 silly mapToRegistry using default registry
+845 silly mapToRegistry registry https://registry.npmjs.org/
+846 silly mapToRegistry data Result {
+846 silly mapToRegistry   raw: '@angular/forms',
+846 silly mapToRegistry   scope: '@angular',
+846 silly mapToRegistry   name: '@angular/forms',
+846 silly mapToRegistry   rawSpec: '',
+846 silly mapToRegistry   spec: 'latest',
+846 silly mapToRegistry   type: 'tag' }
+847 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fforms
+848 silly fetchNamedPackageData @angular/language-service
+849 silly mapToRegistry name @angular/language-service
+850 silly mapToRegistry scope (from package name) @angular
+851 verbose mapToRegistry no registry URL found in name for scope @angular
+852 silly mapToRegistry using default registry
+853 silly mapToRegistry registry https://registry.npmjs.org/
+854 silly mapToRegistry data Result {
+854 silly mapToRegistry   raw: '@angular/language-service',
+854 silly mapToRegistry   scope: '@angular',
+854 silly mapToRegistry   name: '@angular/language-service',
+854 silly mapToRegistry   rawSpec: '',
+854 silly mapToRegistry   spec: 'latest',
+854 silly mapToRegistry   type: 'tag' }
+855 silly mapToRegistry uri https://registry.npmjs.org/@angular%2flanguage-service
+856 silly fetchNamedPackageData @angular/localize
+857 silly mapToRegistry name @angular/localize
+858 silly mapToRegistry scope (from package name) @angular
+859 verbose mapToRegistry no registry URL found in name for scope @angular
+860 silly mapToRegistry using default registry
+861 silly mapToRegistry registry https://registry.npmjs.org/
+862 silly mapToRegistry data Result {
+862 silly mapToRegistry   raw: '@angular/localize',
+862 silly mapToRegistry   scope: '@angular',
+862 silly mapToRegistry   name: '@angular/localize',
+862 silly mapToRegistry   rawSpec: '',
+862 silly mapToRegistry   spec: 'latest',
+862 silly mapToRegistry   type: 'tag' }
+863 silly mapToRegistry uri https://registry.npmjs.org/@angular%2flocalize
+864 silly fetchNamedPackageData @angular/platform-browser
+865 silly mapToRegistry name @angular/platform-browser
+866 silly mapToRegistry scope (from package name) @angular
+867 verbose mapToRegistry no registry URL found in name for scope @angular
+868 silly mapToRegistry using default registry
+869 silly mapToRegistry registry https://registry.npmjs.org/
+870 silly mapToRegistry data Result {
+870 silly mapToRegistry   raw: '@angular/platform-browser',
+870 silly mapToRegistry   scope: '@angular',
+870 silly mapToRegistry   name: '@angular/platform-browser',
+870 silly mapToRegistry   rawSpec: '',
+870 silly mapToRegistry   spec: 'latest',
+870 silly mapToRegistry   type: 'tag' }
+871 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fplatform-browser
+872 silly fetchNamedPackageData @angular/platform-browser-dynamic
+873 silly mapToRegistry name @angular/platform-browser-dynamic
+874 silly mapToRegistry scope (from package name) @angular
+875 verbose mapToRegistry no registry URL found in name for scope @angular
+876 silly mapToRegistry using default registry
+877 silly mapToRegistry registry https://registry.npmjs.org/
+878 silly mapToRegistry data Result {
+878 silly mapToRegistry   raw: '@angular/platform-browser-dynamic',
+878 silly mapToRegistry   scope: '@angular',
+878 silly mapToRegistry   name: '@angular/platform-browser-dynamic',
+878 silly mapToRegistry   rawSpec: '',
+878 silly mapToRegistry   spec: 'latest',
+878 silly mapToRegistry   type: 'tag' }
+879 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fplatform-browser-dynamic
+880 silly fetchNamedPackageData @angular/router
+881 silly mapToRegistry name @angular/router
+882 silly mapToRegistry scope (from package name) @angular
+883 verbose mapToRegistry no registry URL found in name for scope @angular
+884 silly mapToRegistry using default registry
+885 silly mapToRegistry registry https://registry.npmjs.org/
+886 silly mapToRegistry data Result {
+886 silly mapToRegistry   raw: '@angular/router',
+886 silly mapToRegistry   scope: '@angular',
+886 silly mapToRegistry   name: '@angular/router',
+886 silly mapToRegistry   rawSpec: '',
+886 silly mapToRegistry   spec: 'latest',
+886 silly mapToRegistry   type: 'tag' }
+887 silly mapToRegistry uri https://registry.npmjs.org/@angular%2frouter
+888 silly fetchNamedPackageData @angular/service-worker
+889 silly mapToRegistry name @angular/service-worker
+890 silly mapToRegistry scope (from package name) @angular
+891 verbose mapToRegistry no registry URL found in name for scope @angular
+892 silly mapToRegistry using default registry
+893 silly mapToRegistry registry https://registry.npmjs.org/
+894 silly mapToRegistry data Result {
+894 silly mapToRegistry   raw: '@angular/service-worker',
+894 silly mapToRegistry   scope: '@angular',
+894 silly mapToRegistry   name: '@angular/service-worker',
+894 silly mapToRegistry   rawSpec: '',
+894 silly mapToRegistry   spec: 'latest',
+894 silly mapToRegistry   type: 'tag' }
+895 silly mapToRegistry uri https://registry.npmjs.org/@angular%2fservice-worker
+896 silly fetchNamedPackageData @dwtechs/checkhard
+897 silly mapToRegistry name @dwtechs/checkhard
+898 silly mapToRegistry scope (from package name) @dwtechs
+899 verbose mapToRegistry no registry URL found in name for scope @dwtechs
+900 silly mapToRegistry using default registry
+901 silly mapToRegistry registry https://registry.npmjs.org/
+902 silly mapToRegistry data Result {
+902 silly mapToRegistry   raw: '@dwtechs/checkhard',
+902 silly mapToRegistry   scope: '@dwtechs',
+902 silly mapToRegistry   name: '@dwtechs/checkhard',
+902 silly mapToRegistry   rawSpec: '',
+902 silly mapToRegistry   spec: 'latest',
+902 silly mapToRegistry   type: 'tag' }
+903 silly mapToRegistry uri https://registry.npmjs.org/@dwtechs%2fcheckhard
+904 silly fetchNamedPackageData @dwtechs/csvx
+905 silly mapToRegistry name @dwtechs/csvx
+906 silly mapToRegistry scope (from package name) @dwtechs
+907 verbose mapToRegistry no registry URL found in name for scope @dwtechs
+908 silly mapToRegistry using default registry
+909 silly mapToRegistry registry https://registry.npmjs.org/
+910 silly mapToRegistry data Result {
+910 silly mapToRegistry   raw: '@dwtechs/csvx',
+910 silly mapToRegistry   scope: '@dwtechs',
+910 silly mapToRegistry   name: '@dwtechs/csvx',
+910 silly mapToRegistry   rawSpec: '',
+910 silly mapToRegistry   spec: 'latest',
+910 silly mapToRegistry   type: 'tag' }
+911 silly mapToRegistry uri https://registry.npmjs.org/@dwtechs%2fcsvx
+912 silly fetchNamedPackageData @dwtechs/ctrltab
+913 silly mapToRegistry name @dwtechs/ctrltab
+914 silly mapToRegistry scope (from package name) @dwtechs
+915 verbose mapToRegistry no registry URL found in name for scope @dwtechs
+916 silly mapToRegistry using default registry
+917 silly mapToRegistry registry https://registry.npmjs.org/
+918 silly mapToRegistry data Result {
+918 silly mapToRegistry   raw: '@dwtechs/ctrltab',
+918 silly mapToRegistry   scope: '@dwtechs',
+918 silly mapToRegistry   name: '@dwtechs/ctrltab',
+918 silly mapToRegistry   rawSpec: '',
+918 silly mapToRegistry   spec: 'latest',
+918 silly mapToRegistry   type: 'tag' }
+919 silly mapToRegistry uri https://registry.npmjs.org/@dwtechs%2fctrltab
+920 silly fetchNamedPackageData @types/chart.js
+921 silly mapToRegistry name @types/chart.js
+922 silly mapToRegistry scope (from package name) @types
+923 verbose mapToRegistry no registry URL found in name for scope @types
+924 silly mapToRegistry using default registry
+925 silly mapToRegistry registry https://registry.npmjs.org/
+926 silly mapToRegistry data Result {
+926 silly mapToRegistry   raw: '@types/chart.js',
+926 silly mapToRegistry   scope: '@types',
+926 silly mapToRegistry   name: '@types/chart.js',
+926 silly mapToRegistry   rawSpec: '',
+926 silly mapToRegistry   spec: 'latest',
+926 silly mapToRegistry   type: 'tag' }
+927 silly mapToRegistry uri https://registry.npmjs.org/@types%2fchart.js
+928 silly fetchNamedPackageData @types/jasmine
+929 silly mapToRegistry name @types/jasmine
+930 silly mapToRegistry scope (from package name) @types
+931 verbose mapToRegistry no registry URL found in name for scope @types
+932 silly mapToRegistry using default registry
+933 silly mapToRegistry registry https://registry.npmjs.org/
+934 silly mapToRegistry data Result {
+934 silly mapToRegistry   raw: '@types/jasmine',
+934 silly mapToRegistry   scope: '@types',
+934 silly mapToRegistry   name: '@types/jasmine',
+934 silly mapToRegistry   rawSpec: '',
+934 silly mapToRegistry   spec: 'latest',
+934 silly mapToRegistry   type: 'tag' }
+935 silly mapToRegistry uri https://registry.npmjs.org/@types%2fjasmine
+936 silly fetchNamedPackageData @types/jasminewd2
+937 silly mapToRegistry name @types/jasminewd2
+938 silly mapToRegistry scope (from package name) @types
+939 verbose mapToRegistry no registry URL found in name for scope @types
+940 silly mapToRegistry using default registry
+941 silly mapToRegistry registry https://registry.npmjs.org/
+942 silly mapToRegistry data Result {
+942 silly mapToRegistry   raw: '@types/jasminewd2',
+942 silly mapToRegistry   scope: '@types',
+942 silly mapToRegistry   name: '@types/jasminewd2',
+942 silly mapToRegistry   rawSpec: '',
+942 silly mapToRegistry   spec: 'latest',
+942 silly mapToRegistry   type: 'tag' }
+943 silly mapToRegistry uri https://registry.npmjs.org/@types%2fjasminewd2
+944 silly fetchNamedPackageData @types/node
+945 silly mapToRegistry name @types/node
+946 silly mapToRegistry scope (from package name) @types
+947 verbose mapToRegistry no registry URL found in name for scope @types
+948 silly mapToRegistry using default registry
+949 silly mapToRegistry registry https://registry.npmjs.org/
+950 silly mapToRegistry data Result {
+950 silly mapToRegistry   raw: '@types/node',
+950 silly mapToRegistry   scope: '@types',
+950 silly mapToRegistry   name: '@types/node',
+950 silly mapToRegistry   rawSpec: '',
+950 silly mapToRegistry   spec: 'latest',
+950 silly mapToRegistry   type: 'tag' }
+951 silly mapToRegistry uri https://registry.npmjs.org/@types%2fnode
+952 silly fetchNamedPackageData codelyzer
+953 silly mapToRegistry name codelyzer
+954 silly mapToRegistry using default registry
+955 silly mapToRegistry registry https://registry.npmjs.org/
+956 silly mapToRegistry data Result {
+956 silly mapToRegistry   raw: 'codelyzer',
+956 silly mapToRegistry   scope: null,
+956 silly mapToRegistry   name: 'codelyzer',
+956 silly mapToRegistry   rawSpec: '',
+956 silly mapToRegistry   spec: 'latest',
+956 silly mapToRegistry   type: 'tag' }
+957 silly mapToRegistry uri https://registry.npmjs.org/codelyzer
+958 silly fetchNamedPackageData core-js
+959 silly mapToRegistry name core-js
+960 silly mapToRegistry using default registry
+961 silly mapToRegistry registry https://registry.npmjs.org/
+962 silly mapToRegistry data Result {
+962 silly mapToRegistry   raw: 'core-js',
+962 silly mapToRegistry   scope: null,
+962 silly mapToRegistry   name: 'core-js',
+962 silly mapToRegistry   rawSpec: '',
+962 silly mapToRegistry   spec: 'latest',
+962 silly mapToRegistry   type: 'tag' }
+963 silly mapToRegistry uri https://registry.npmjs.org/core-js
+964 silly fetchNamedPackageData file-saver
+965 silly mapToRegistry name file-saver
+966 silly mapToRegistry using default registry
+967 silly mapToRegistry registry https://registry.npmjs.org/
+968 silly mapToRegistry data Result {
+968 silly mapToRegistry   raw: 'file-saver',
+968 silly mapToRegistry   scope: null,
+968 silly mapToRegistry   name: 'file-saver',
+968 silly mapToRegistry   rawSpec: '',
+968 silly mapToRegistry   spec: 'latest',
+968 silly mapToRegistry   type: 'tag' }
+969 silly mapToRegistry uri https://registry.npmjs.org/file-saver
+970 silly fetchNamedPackageData highlight.js
+971 silly mapToRegistry name highlight.js
+972 silly mapToRegistry using default registry
+973 silly mapToRegistry registry https://registry.npmjs.org/
+974 silly mapToRegistry data Result {
+974 silly mapToRegistry   raw: 'highlight.js',
+974 silly mapToRegistry   scope: null,
+974 silly mapToRegistry   name: 'highlight.js',
+974 silly mapToRegistry   rawSpec: '',
+974 silly mapToRegistry   spec: 'latest',
+974 silly mapToRegistry   type: 'tag' }
+975 silly mapToRegistry uri https://registry.npmjs.org/highlight.js
+976 silly fetchNamedPackageData http-server
+977 silly mapToRegistry name http-server
+978 silly mapToRegistry using default registry
+979 silly mapToRegistry registry https://registry.npmjs.org/
+980 silly mapToRegistry data Result {
+980 silly mapToRegistry   raw: 'http-server',
+980 silly mapToRegistry   scope: null,
+980 silly mapToRegistry   name: 'http-server',
+980 silly mapToRegistry   rawSpec: '',
+980 silly mapToRegistry   spec: 'latest',
+980 silly mapToRegistry   type: 'tag' }
+981 silly mapToRegistry uri https://registry.npmjs.org/http-server
+982 silly fetchNamedPackageData jasmine-core
+983 silly mapToRegistry name jasmine-core
+984 silly mapToRegistry using default registry
+985 silly mapToRegistry registry https://registry.npmjs.org/
+986 silly mapToRegistry data Result {
+986 silly mapToRegistry   raw: 'jasmine-core',
+986 silly mapToRegistry   scope: null,
+986 silly mapToRegistry   name: 'jasmine-core',
+986 silly mapToRegistry   rawSpec: '',
+986 silly mapToRegistry   spec: 'latest',
+986 silly mapToRegistry   type: 'tag' }
+987 silly mapToRegistry uri https://registry.npmjs.org/jasmine-core
+988 silly fetchNamedPackageData jasmine-spec-reporter
+989 silly mapToRegistry name jasmine-spec-reporter
+990 silly mapToRegistry using default registry
+991 silly mapToRegistry registry https://registry.npmjs.org/
+992 silly mapToRegistry data Result {
+992 silly mapToRegistry   raw: 'jasmine-spec-reporter',
+992 silly mapToRegistry   scope: null,
+992 silly mapToRegistry   name: 'jasmine-spec-reporter',
+992 silly mapToRegistry   rawSpec: '',
+992 silly mapToRegistry   spec: 'latest',
+992 silly mapToRegistry   type: 'tag' }
+993 silly mapToRegistry uri https://registry.npmjs.org/jasmine-spec-reporter
+994 silly fetchNamedPackageData karma
+995 silly mapToRegistry name karma
+996 silly mapToRegistry using default registry
+997 silly mapToRegistry registry https://registry.npmjs.org/
+998 silly mapToRegistry data Result {
+998 silly mapToRegistry   raw: 'karma',
+998 silly mapToRegistry   scope: null,
+998 silly mapToRegistry   name: 'karma',
+998 silly mapToRegistry   rawSpec: '',
+998 silly mapToRegistry   spec: 'latest',
+998 silly mapToRegistry   type: 'tag' }
+999 silly mapToRegistry uri https://registry.npmjs.org/karma
+1000 silly fetchNamedPackageData karma-chrome-launcher
+1001 silly mapToRegistry name karma-chrome-launcher
+1002 silly mapToRegistry using default registry
+1003 silly mapToRegistry registry https://registry.npmjs.org/
+1004 silly mapToRegistry data Result {
+1004 silly mapToRegistry   raw: 'karma-chrome-launcher',
+1004 silly mapToRegistry   scope: null,
+1004 silly mapToRegistry   name: 'karma-chrome-launcher',
+1004 silly mapToRegistry   rawSpec: '',
+1004 silly mapToRegistry   spec: 'latest',
+1004 silly mapToRegistry   type: 'tag' }
+1005 silly mapToRegistry uri https://registry.npmjs.org/karma-chrome-launcher
+1006 silly fetchNamedPackageData karma-coverage-istanbul-reporter
+1007 silly mapToRegistry name karma-coverage-istanbul-reporter
+1008 silly mapToRegistry using default registry
+1009 silly mapToRegistry registry https://registry.npmjs.org/
+1010 silly mapToRegistry data Result {
+1010 silly mapToRegistry   raw: 'karma-coverage-istanbul-reporter',
+1010 silly mapToRegistry   scope: null,
+1010 silly mapToRegistry   name: 'karma-coverage-istanbul-reporter',
+1010 silly mapToRegistry   rawSpec: '',
+1010 silly mapToRegistry   spec: 'latest',
+1010 silly mapToRegistry   type: 'tag' }
+1011 silly mapToRegistry uri https://registry.npmjs.org/karma-coverage-istanbul-reporter
+1012 silly fetchNamedPackageData karma-jasmine
+1013 silly mapToRegistry name karma-jasmine
+1014 silly mapToRegistry using default registry
+1015 silly mapToRegistry registry https://registry.npmjs.org/
+1016 silly mapToRegistry data Result {
+1016 silly mapToRegistry   raw: 'karma-jasmine',
+1016 silly mapToRegistry   scope: null,
+1016 silly mapToRegistry   name: 'karma-jasmine',
+1016 silly mapToRegistry   rawSpec: '',
+1016 silly mapToRegistry   spec: 'latest',
+1016 silly mapToRegistry   type: 'tag' }
+1017 silly mapToRegistry uri https://registry.npmjs.org/karma-jasmine
+1018 silly fetchNamedPackageData karma-jasmine-html-reporter
+1019 silly mapToRegistry name karma-jasmine-html-reporter
+1020 silly mapToRegistry using default registry
+1021 silly mapToRegistry registry https://registry.npmjs.org/
+1022 silly mapToRegistry data Result {
+1022 silly mapToRegistry   raw: 'karma-jasmine-html-reporter',
+1022 silly mapToRegistry   scope: null,
+1022 silly mapToRegistry   name: 'karma-jasmine-html-reporter',
+1022 silly mapToRegistry   rawSpec: '',
+1022 silly mapToRegistry   spec: 'latest',
+1022 silly mapToRegistry   type: 'tag' }
+1023 silly mapToRegistry uri https://registry.npmjs.org/karma-jasmine-html-reporter
+1024 silly fetchNamedPackageData primeicons
+1025 silly mapToRegistry name primeicons
+1026 silly mapToRegistry using default registry
+1027 silly mapToRegistry registry https://registry.npmjs.org/
+1028 silly mapToRegistry data Result {
+1028 silly mapToRegistry   raw: 'primeicons',
+1028 silly mapToRegistry   scope: null,
+1028 silly mapToRegistry   name: 'primeicons',
+1028 silly mapToRegistry   rawSpec: '',
+1028 silly mapToRegistry   spec: 'latest',
+1028 silly mapToRegistry   type: 'tag' }
+1029 silly mapToRegistry uri https://registry.npmjs.org/primeicons
+1030 silly fetchNamedPackageData primeng
+1031 silly mapToRegistry name primeng
+1032 silly mapToRegistry using default registry
+1033 silly mapToRegistry registry https://registry.npmjs.org/
+1034 silly mapToRegistry data Result {
+1034 silly mapToRegistry   raw: 'primeng',
+1034 silly mapToRegistry   scope: null,
+1034 silly mapToRegistry   name: 'primeng',
+1034 silly mapToRegistry   rawSpec: '',
+1034 silly mapToRegistry   spec: 'latest',
+1034 silly mapToRegistry   type: 'tag' }
+1035 silly mapToRegistry uri https://registry.npmjs.org/primeng
+1036 silly fetchNamedPackageData protractor
+1037 silly mapToRegistry name protractor
+1038 silly mapToRegistry using default registry
+1039 silly mapToRegistry registry https://registry.npmjs.org/
+1040 silly mapToRegistry data Result {
+1040 silly mapToRegistry   raw: 'protractor',
+1040 silly mapToRegistry   scope: null,
+1040 silly mapToRegistry   name: 'protractor',
+1040 silly mapToRegistry   rawSpec: '',
+1040 silly mapToRegistry   spec: 'latest',
+1040 silly mapToRegistry   type: 'tag' }
+1041 silly mapToRegistry uri https://registry.npmjs.org/protractor
+1042 silly fetchNamedPackageData rxjs
+1043 silly mapToRegistry name rxjs
+1044 silly mapToRegistry using default registry
+1045 silly mapToRegistry registry https://registry.npmjs.org/
+1046 silly mapToRegistry data Result {
+1046 silly mapToRegistry   raw: 'rxjs',
+1046 silly mapToRegistry   scope: null,
+1046 silly mapToRegistry   name: 'rxjs',
+1046 silly mapToRegistry   rawSpec: '',
+1046 silly mapToRegistry   spec: 'latest',
+1046 silly mapToRegistry   type: 'tag' }
+1047 silly mapToRegistry uri https://registry.npmjs.org/rxjs
+1048 silly fetchNamedPackageData ts-node
+1049 silly mapToRegistry name ts-node
+1050 silly mapToRegistry using default registry
+1051 silly mapToRegistry registry https://registry.npmjs.org/
+1052 silly mapToRegistry data Result {
+1052 silly mapToRegistry   raw: 'ts-node',
+1052 silly mapToRegistry   scope: null,
+1052 silly mapToRegistry   name: 'ts-node',
+1052 silly mapToRegistry   rawSpec: '',
+1052 silly mapToRegistry   spec: 'latest',
+1052 silly mapToRegistry   type: 'tag' }
+1053 silly mapToRegistry uri https://registry.npmjs.org/ts-node
+1054 silly fetchNamedPackageData tslib
+1055 silly mapToRegistry name tslib
+1056 silly mapToRegistry using default registry
+1057 silly mapToRegistry registry https://registry.npmjs.org/
+1058 silly mapToRegistry data Result {
+1058 silly mapToRegistry   raw: 'tslib',
+1058 silly mapToRegistry   scope: null,
+1058 silly mapToRegistry   name: 'tslib',
+1058 silly mapToRegistry   rawSpec: '',
+1058 silly mapToRegistry   spec: 'latest',
+1058 silly mapToRegistry   type: 'tag' }
+1059 silly mapToRegistry uri https://registry.npmjs.org/tslib
+1060 silly fetchNamedPackageData tslint
+1061 silly mapToRegistry name tslint
+1062 silly mapToRegistry using default registry
+1063 silly mapToRegistry registry https://registry.npmjs.org/
+1064 silly mapToRegistry data Result {
+1064 silly mapToRegistry   raw: 'tslint',
+1064 silly mapToRegistry   scope: null,
+1064 silly mapToRegistry   name: 'tslint',
+1064 silly mapToRegistry   rawSpec: '',
+1064 silly mapToRegistry   spec: 'latest',
+1064 silly mapToRegistry   type: 'tag' }
+1065 silly mapToRegistry uri https://registry.npmjs.org/tslint
+1066 silly fetchNamedPackageData typescript
+1067 silly mapToRegistry name typescript
+1068 silly mapToRegistry using default registry
+1069 silly mapToRegistry registry https://registry.npmjs.org/
+1070 silly mapToRegistry data Result {
+1070 silly mapToRegistry   raw: 'typescript',
+1070 silly mapToRegistry   scope: null,
+1070 silly mapToRegistry   name: 'typescript',
+1070 silly mapToRegistry   rawSpec: '',
+1070 silly mapToRegistry   spec: 'latest',
+1070 silly mapToRegistry   type: 'tag' }
+1071 silly mapToRegistry uri https://registry.npmjs.org/typescript
+1072 silly fetchNamedPackageData zone.js
+1073 silly mapToRegistry name zone.js
+1074 silly mapToRegistry using default registry
+1075 silly mapToRegistry registry https://registry.npmjs.org/
+1076 silly mapToRegistry data Result {
+1076 silly mapToRegistry   raw: 'zone.js',
+1076 silly mapToRegistry   scope: null,
+1076 silly mapToRegistry   name: 'zone.js',
+1076 silly mapToRegistry   rawSpec: '',
+1076 silly mapToRegistry   spec: 'latest',
+1076 silly mapToRegistry   type: 'tag' }
+1077 silly mapToRegistry uri https://registry.npmjs.org/zone.js
+1078 verbose get https://registry.npmjs.org/@angular%2fcdk not expired, no request
+1079 verbose get https://registry.npmjs.org/@angular-devkit%2fbuild-angular not expired, no request
+1080 verbose get https://registry.npmjs.org/@angular%2fcompiler not expired, no request
+1081 verbose get https://registry.npmjs.org/@angular%2fanimations not expired, no request
+1082 verbose get https://registry.npmjs.org/@angular%2fcommon not expired, no request
+1083 verbose get https://registry.npmjs.org/@angular%2fcore not expired, no request
+1084 verbose get https://registry.npmjs.org/@angular%2flanguage-service not expired, no request
+1085 verbose get https://registry.npmjs.org/@angular%2fplatform-browser not expired, no request
+1086 verbose get https://registry.npmjs.org/@angular%2fcli not expired, no request
+1087 verbose get https://registry.npmjs.org/@angular%2fplatform-browser-dynamic not expired, no request
+1088 verbose get https://registry.npmjs.org/@angular%2frouter not expired, no request
+1089 verbose get https://registry.npmjs.org/@dwtechs%2fcheckhard not expired, no request
+1090 verbose get https://registry.npmjs.org/@dwtechs%2fcsvx not expired, no request
+1091 verbose get https://registry.npmjs.org/@dwtechs%2fctrltab not expired, no request
+1092 verbose get https://registry.npmjs.org/@types%2fchart.js not expired, no request
+1093 verbose get https://registry.npmjs.org/@types%2fjasmine not expired, no request
+1094 verbose get https://registry.npmjs.org/@types%2fjasminewd2 not expired, no request
+1095 verbose get https://registry.npmjs.org/@angular%2fservice-worker not expired, no request
+1096 verbose get https://registry.npmjs.org/codelyzer not expired, no request
+1097 verbose get https://registry.npmjs.org/core-js not expired, no request
+1098 verbose get https://registry.npmjs.org/file-saver not expired, no request
+1099 verbose get https://registry.npmjs.org/@angular%2fcompiler-cli not expired, no request
+1100 verbose get https://registry.npmjs.org/http-server not expired, no request
+1101 verbose get https://registry.npmjs.org/jasmine-core not expired, no request
+1102 verbose get https://registry.npmjs.org/jasmine-spec-reporter not expired, no request
+1103 verbose get https://registry.npmjs.org/highlight.js not expired, no request
+1104 verbose get https://registry.npmjs.org/@types%2fnode not expired, no request
+1105 verbose get https://registry.npmjs.org/karma-chrome-launcher not expired, no request
+1106 verbose get https://registry.npmjs.org/@angular%2flocalize not expired, no request
+1107 verbose get https://registry.npmjs.org/karma-jasmine-html-reporter not expired, no request
+1108 verbose get https://registry.npmjs.org/primeicons not expired, no request
+1109 verbose get https://registry.npmjs.org/@angular%2fforms not expired, no request
+1110 verbose get https://registry.npmjs.org/protractor not expired, no request
+1111 verbose get https://registry.npmjs.org/rxjs not expired, no request
+1112 verbose get https://registry.npmjs.org/ts-node not expired, no request
+1113 verbose get https://registry.npmjs.org/tslib not expired, no request
+1114 verbose get https://registry.npmjs.org/tslint not expired, no request
+1115 verbose get https://registry.npmjs.org/primeng not expired, no request
+1116 verbose get https://registry.npmjs.org/zone.js not expired, no request
+1117 verbose get https://registry.npmjs.org/karma-coverage-istanbul-reporter not expired, no request
+1118 verbose get https://registry.npmjs.org/typescript not expired, no request
+1119 verbose get https://registry.npmjs.org/karma not expired, no request
+1120 verbose get https://registry.npmjs.org/karma-jasmine not expired, no request
+1121 silly install normalizeTree
+1122 silly loadCurrentTree Finishing
+1123 silly loadIdealTree Starting
+1124 silly install loadIdealTree
+1125 silly cloneCurrentTree Starting
+1126 silly install cloneCurrentTreeToIdealTree
+1127 silly cloneCurrentTree Finishing
+1128 silly loadShrinkwrap Starting
+1129 silly install loadShrinkwrap
+1130 silly loadShrinkwrap Finishing
+1131 silly loadAllDepsIntoIdealTree Starting
+1132 silly install loadAllDepsIntoIdealTree
+1133 verbose stack Error: Missing required argument #1
+1133 verbose stack     at andLogAndFinish (C:\Program Files (x86)\nodejs\node_modules\npm\lib\fetch-package-metadata.js:31:3)
+1133 verbose stack     at fetchPackageMetadata (C:\Program Files (x86)\nodejs\node_modules\npm\lib\fetch-package-metadata.js:51:22)
+1133 verbose stack     at resolveWithNewModule (C:\Program Files (x86)\nodejs\node_modules\npm\lib\install\deps.js:455:12)
+1133 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\lib\install\deps.js:190:5
+1133 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:52:35
+1133 verbose stack     at Array.forEach (native)
+1133 verbose stack     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:52:11
+1133 verbose stack     at Array.forEach (native)
+1133 verbose stack     at asyncMap (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:51:8)
+1133 verbose stack     at exports.loadRequestedDeps (C:\Program Files (x86)\nodejs\node_modules\npm\lib\install\deps.js:188:3)
+1134 verbose cwd C:\Users\Kilune\Desktop\test_technique\alten-shop-back-products\alten-shop-back-products\front
+1135 error Windows_NT 6.1.7601
+1136 error argv "C:\\Program Files (x86)\\nodejs\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "update"
+1137 error node v5.12.0
+1138 error npm  v3.8.6
+1139 error code EMISSINGARG
+1140 error typeerror Error: Missing required argument #1
+1140 error typeerror     at andLogAndFinish (C:\Program Files (x86)\nodejs\node_modules\npm\lib\fetch-package-metadata.js:31:3)
+1140 error typeerror     at fetchPackageMetadata (C:\Program Files (x86)\nodejs\node_modules\npm\lib\fetch-package-metadata.js:51:22)
+1140 error typeerror     at resolveWithNewModule (C:\Program Files (x86)\nodejs\node_modules\npm\lib\install\deps.js:455:12)
+1140 error typeerror     at C:\Program Files (x86)\nodejs\node_modules\npm\lib\install\deps.js:190:5
+1140 error typeerror     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:52:35
+1140 error typeerror     at Array.forEach (native)
+1140 error typeerror     at C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:52:11
+1140 error typeerror     at Array.forEach (native)
+1140 error typeerror     at asyncMap (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:51:8)
+1140 error typeerror     at exports.loadRequestedDeps (C:\Program Files (x86)\nodejs\node_modules\npm\lib\install\deps.js:188:3)
+1141 error typeerror This is an error with npm itself. Please report this error at:
+1141 error typeerror     <http://github.com/npm/npm/issues>
+1142 verbose exit [ 1, true ]
